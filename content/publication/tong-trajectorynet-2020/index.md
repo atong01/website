@@ -12,8 +12,9 @@ publication_short: In *ICML*
 links:
 - name: Arxiv
   url: https://arxiv.org/abs/2002.04461
-
 url_code: https://github.com/KrishnaswamyLab/TrajectoryNet
+url_video: https://youtu.be/uEEbC3KI8RM
+url_slides: "TrajectoryNet ICML 2020.pdf"
 tags: ["Computer Science - Computer Vision and Pattern Recognition", "Computer Science - Machine Learning", "Quantitative Biology - Quantitative Methods", "Statistics - Machine Learning"]
 ---
 
