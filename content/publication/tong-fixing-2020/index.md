@@ -1,6 +1,6 @@
 ---
 title: "Fixing Bias in Reconstruction-based Anomaly Detection with Lipschitz Discriminators"
-date: 2020-07-12
+date: 2020-09-21
 publishDate: 2020-07-04T22:16:45.026157Z
 authors: ["Alexander Tong", "Guy Wolf", "Smita Krishnaswamy"]
 publication_types: ["1"]
