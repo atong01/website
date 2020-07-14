@@ -4,6 +4,7 @@ date: 2018-01-01
 publishDate: 2020-06-14T22:16:45.023801Z
 authors: ["James Aspnes", "Bernhard Haeupler", "Alexander Tong", "Philipp Woelfel"]
 publication_types: ["1"]
+categories: ["Conference"]
 
 publication: In *International Symposium on DIStributed Computing*
 publication_short: In *DISC*
