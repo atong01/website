@@ -14,5 +14,8 @@ categories: ["Conference"]
 links:
 - name: Arxiv
   url: https://arxiv.org/abs/1905.10710
+url_code: https://github.com/KrishnaswamyLab/LAD
+url_video: https://youtu.be/142Pgj0m2lU
+url_slides: "LAD MLSP 2020.pdf"
 ---
 

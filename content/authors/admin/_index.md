@@ -72,4 +72,4 @@ user_groups:
 
 Alex Tong is a PhD Candidate in computer science at Yale University advised by Smita Krishnaswamy. His research interest are in machine learning and optimal transport. Currently he is working on applying ideas from optimal transport and graph signal processing to understand and adapt deep learning models. 
 
-Alex is originally fro Seattle, Washington. He and graduated from Tufts University in 2017 with a B.S. and M.S. in computer science. He splits his spare time between racing sailboats and trail running.
+Alex is originally from Seattle, Washington. He and graduated from Tufts University in 2017 with a B.S. and M.S. in computer science. He splits his spare time between racing sailboats and trail running.
