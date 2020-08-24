@@ -70,4 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Alex is a second year computer science phd student at Yale University. His research interests are in machine learning and algorithms. Currently, he is working on structuring latent representations using ideas from graph theory and deep learning in the <a href=https://www.krishnaswamylab.org/>Krishnaswamy Lab</a> advised by Smita Krishnaswamy.
+Alex Tong is a PhD Candidate in computer science at Yale University advised by Smita Krishnaswamy. His research interest are in machine learning and optimal transport. Currently he is working on applying ideas from optimal transport and graph signal processing to understand and adapt deep learning models. 
+
+Alex is originally fro Seattle, Washington. He and graduated from Tufts University in 2017 with a B.S. and M.S. in computer science. He splits his spare time between racing sailboats and trail running.
