@@ -16,7 +16,7 @@ categories: ["Conference"]
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Modeling Embryoid Bodies over time from cross-sectional single-cell RNA sequencing."
+  caption: ""
   focal_point: "Top"
   preview_only: false
 
