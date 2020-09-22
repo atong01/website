@@ -11,6 +11,15 @@ publication: In *30th IEEE International Workshop on Machine Learning for Signal
 publication_short: In *IEEE MLSP*
 categories: ["Conference"]
 
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: "Modeling Embryoid Bodies over time from cross-sectional single-cell RNA sequencing."
+  focal_point: "Top"
+  preview_only: false
+
 links:
 - name: Arxiv
   url: https://arxiv.org/abs/1905.10710
