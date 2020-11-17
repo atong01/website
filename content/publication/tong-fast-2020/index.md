@@ -3,11 +3,11 @@
 
 title: "Fast Diffusion Optimal Transport for Manifold-of-Manifold Embeddings"
 authors: ["Alexander Tong", "Manik Kuchroo", "Guillaume Huguet", "Ronald Coifman", "Guy Wolf", "Smita Krishnaswamy"]
-date: 2019-12-01
+date: 2020-12-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-12-08T12:03:31-04:00
+publishDate: 2020-10-08T12:03:31-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
