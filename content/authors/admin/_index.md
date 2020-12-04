@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD Candidate in computer science at Yale University advised by [Dr. Smita Krishnaswamy](https://www.krishnaswamylab.org). My current research interest are in machine learning and optimal transport. I'm working on applying ideas from optimal transport and graph signal processing to understand and adapt deep learning models. 
+I'm a PhD Candidate in computer science at Yale University advised by [Dr. Smita Krishnaswamy](https://www.krishnaswamylab.org). My current research interests are in machine learning and optimal transport. I'm working on applying ideas from optimal transport and graph signal processing to understand and adapt deep learning models. 
 
 I grew up in Seattle, Washington, and graduated from Tufts University in 2017 with a B.S. and M.S. in computer science. I love sailing and trail running.
