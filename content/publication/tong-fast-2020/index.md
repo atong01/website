@@ -39,7 +39,7 @@ featured: false
 url_pdf:
 url_code:
 url_dataset:
-url_poster: 
+url_poster: NeurIPS_LMRL_2020_Manifold.pdf
 url_project:
 url_slides:
 url_source:
