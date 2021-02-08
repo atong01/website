@@ -23,7 +23,7 @@ links:
 - name: Arxiv
   url: https://arxiv.org/abs/2002.04461
 - name: ICML Page
-  url: https://icml.cc/virtual/2020/poster/6491
+  url: http://proceedings.mlr.press/v119/tong20a.html
 url_code: https://github.com/KrishnaswamyLab/TrajectoryNet
 url_video: https://youtu.be/uEEbC3KI8RM
 url_slides: "TrajectoryNet ICML 2020.pdf"
