@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Under Review"
-  url = "#underreview"
+  name = "Preprints"
+  url = "#preprints"
   weight = 30
 
 [[main]]
