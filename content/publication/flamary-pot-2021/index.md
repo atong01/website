@@ -9,5 +9,9 @@ abstract: "Optimal transport has recently been reintroduced to the machine learn
 featured: false
 publication: In *Journal of Machine Learning Research*
 publication_short: "In *JMLR*"
+
+links:
+url_pdf: https://www.jmlr.org/papers/volume22/20-451/20-451.pdf
+url_code: https://github.com/PythonOT/POT
 ---
 
