@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
 title = "Workshops"
-subtitle = "without proceedings"
+subtitle = "and presentations without proceedings"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
