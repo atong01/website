@@ -29,6 +29,7 @@ links:
 url_code: https://github.com/KrishnaswamyLab/TrajectoryNet
 url_video: https://youtu.be/uEEbC3KI8RM
 url_slides: "TrajectoryNet ICML 2020.pdf"
+url_pdf: http://proceedings.mlr.press/v119/tong20a/tong20a-supp.pdf
 tags: ["OT", "Optimal Transport", "CNF", "Continuous Normalizing Flow", NN"]
 ---
 
