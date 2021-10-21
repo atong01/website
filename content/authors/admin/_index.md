@@ -22,16 +22,17 @@ bio: My research interests include optimal transport, graph scattering, and norm
 
 interests:
 - Machine Learning
+- Causal Inference
 - Optimal Transport
-- Anomaly Detection
 - Graph Signal Processing
 - Single Cell Transcriptomics
+- Anomaly Detection
 
 education:
   courses:
   - course: PhD in Computer Science focus on Machine Learning
     institution: Yale University
-    year: 2017-Present
+    year: 2021
   - course: MS in Computer Science
     institution: Tufts University
     year: 2017
@@ -46,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:alexander.tong@yale.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:alexanderytong@gmail.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/atong01
@@ -72,6 +73,10 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD Candidate in computer science at Yale University advised by [Dr. Smita Krishnaswamy](https://www.krishnaswamylab.org). My current research interests are in machine learning and optimal transport. I'm working on applying ideas from optimal transport and graph signal processing to understand and adapt deep learning models. 
+I am starting a postdoc with [Yoshua Bengio](https://https://yoshuabengio.org) studying deep learning and more specifically the causal discovery of cell dynamics at [MILA](https://mila.quebec/en/) in Montreal. This work is in collaboration with [Bernhard Schölkopf](https://www.is.mpg.de/~bs) and [Fabian Theis](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index.html) through the newly formed Helmholtz International Lab, a German-Canadian collaboration.
 
-I grew up in Seattle, Washington, and graduated from Tufts University in 2017 with a B.S. and M.S. in computer science. I love sailing and trail running.
+I recently completed my PhD in the [computer science department](https://cpsc.yale.edu) at Yale University in 2021 where I was advised by [Smita Krishnaswamy](https://www.krishnaswamylab.org).
+My current research interests are in causal machine learning, deep learning, and optimal transport. 
+I'm working on applying ideas from causality, optimal transport, graph signal processing, and deep learning towards biological, and particularly single-cell, questions. 
+
+I grew up in Seattle, Washington, USA, and graduated from [Tufts University](https://www.tufts.edu) in 2017 with a B.S. and M.S. in computer science. I outside of work I love sailing and running.

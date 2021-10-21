@@ -8,3 +8,6 @@ public/
 # Vim
 *.swp
 *.swo
+
+# Mac 
+.DS_Store
