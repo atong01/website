@@ -10,29 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Phd Student
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Computer Science Yale University
-  url: "https://cpsc.yale.edu"
+- name: Mila - Quebec AI Institute
+  url: "https://mila.quebec/en/"
+- name: Université de Montréal
+  url: "https://www.umontreal.ca/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include optimal transport, graph scattering, and normalizing flows.
 
 interests:
-- Machine Learning
 - Causal Inference
 - Optimal Transport
-- Graph Signal Processing
 - Single Cell Transcriptomics
+- Graph Signal Processing
 - Anomaly Detection
 
 education:
   courses:
-  - course: PhD in Computer Science focus on Machine Learning
+  - course: PhD in Computer Science
     institution: Yale University
     year: 2021
+  - course: MPhil in Computer Science
+    institution: Yale University
+    year: 2020
   - course: MS in Computer Science
     institution: Tufts University
     year: 2017
@@ -47,7 +51,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:alexanderytong@gmail.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:alexander.tong@mila.quebec'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/atong01
@@ -79,4 +83,4 @@ I recently completed my PhD in the [computer science department](https://cpsc.y
 My current research interests are in causal machine learning, deep learning, and optimal transport. 
 I'm working on applying ideas from causality, optimal transport, graph signal processing, and deep learning towards biological, and particularly single-cell, questions. 
 
-I grew up in Seattle, Washington, USA, and graduated from [Tufts University](https://www.tufts.edu) in 2017 with a B.S. and M.S. in computer science. I outside of work I love sailing and running.
+I grew up in Seattle, Washington, USA, and graduated from [Tufts University](https://www.tufts.edu) in 2017 with a B.S. and M.S. in computer science. Outside of work I love sailing and running.
