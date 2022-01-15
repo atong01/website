@@ -60,7 +60,10 @@ social:
   link: https://twitter.com/AlexanderTong7
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Wwnipd0AAAAJ
+  link: https://scholar.google.com/citations?user=CS80pt4AAAAJ
+# Old google scholar link (Yale Account)
+# link: https://scholar.google.com/citations?user=Wwnipd0AAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -77,7 +80,7 @@ user_groups:
 - Visitors
 ---
 
-I am starting a postdoc with [Yoshua Bengio](https://https://yoshuabengio.org) studying deep learning and more specifically the causal discovery of cell dynamics at [MILA](https://mila.quebec/en/) in Montreal. This work is in collaboration with [Bernhard Schölkopf](https://www.is.mpg.de/~bs) and [Fabian Theis](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index.html) through the newly formed Helmholtz International Lab, a German-Canadian collaboration.
+I am a postdoc with [Yoshua Bengio](https://https://yoshuabengio.org) studying the causal discovery of cell dynamics at [MILA](https://mila.quebec/en/) in Montreal. This work is in collaboration with [Bernhard Schölkopf](https://www.is.mpg.de/~bs) and [Fabian Theis](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index.html) through the newly formed Helmholtz International Lab, a German-Canadian collaboration.
 
 I recently completed my PhD in the [computer science department](https://cpsc.yale.edu) at Yale University in 2021 where I was advised by [Smita Krishnaswamy](https://www.krishnaswamylab.org).
 My current research interests are in causal machine learning, deep learning, and optimal transport. 
