@@ -23,6 +23,9 @@ publication_short: In *IEEE Big Data*
 links:
 - name: Arxiv
   url: https://arxiv.org/abs/2111.10452
+- name: Tweetorial
+  url: https://twitter.com/KrishnaswamyLab/status/1471852935428689920?s=20&t=sxgkKOqRneKIf3AmEpJJBA
+url_code: https://github.com/KrishnaswamyLab/MURAL
 tags: ["OT", "Trees", "EHR"]
 ---
 

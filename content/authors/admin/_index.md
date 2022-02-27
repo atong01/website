@@ -88,7 +88,7 @@ Theis](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index
 through the newly formed [Helmholtz International Lab](https://www.helmholtz.ai/themenmenue/our-research/helmholtz-international-labs/index.html), a German-Canadian
 collaboration.
 
-I recently completed my PhD in the [computer science department](https://cpsc.yale.edu) at Yale University in 2021 where I was advised by [Smita Krishnaswamy](https://www.krishnaswamylab.org).
+I recently completed my PhD in the [computer science department](https://cpsc.yale.edu) at Yale University in 2021 where I was advised by [Smita Krishnaswamy](https://www.krishnaswamylab.org). My dissertation can be found [here](files/Alexander_Tong_Thesis.pdf).
 My current research interests are in causal machine learning, deep learning, and optimal transport. 
 I'm working on applying ideas from causality, optimal transport, graph signal processing, and deep learning towards biological, and particularly single-cell, questions. 
 

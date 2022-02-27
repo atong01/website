@@ -21,9 +21,15 @@ image:
   preview_only: false
 
 links:
-- name: Arxiv
+- name: ArXiv
   url: https://arxiv.org/abs/2010.02415
+- name: Tweetorial
+  url: https://twitter.com/KrishnaswamyLab/status/1454845639171379205?s=20&t=sxgkKOqRneKIf3AmEpJJBA
 url_pdf: https://arxiv.org/pdf/2010.02415.pdf
+url_code: https://github.com/KrishnaswamyLab/LearnableScattering
+url_video: https://youtu.be/GsNlHHvN6p4
+url_slides: "LEGS_MLSP_2021.pdf"
 
+tags: ["Graph Signal Processing", "Scattering", "Graph Neural Network"]
 ---
 
