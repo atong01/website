@@ -25,6 +25,8 @@ links:
   url: https://arxiv.org/abs/2102.12833
 - name: ICML Page
   url: http://proceedings.mlr.press/v139/tong21a.html
+- name: Tweetorial
+  url: https://twitter.com/KrishnaswamyLab/status/1394059986205040647?s=20&t=h5eFpIa32tuxT8HrUEmbng
 url_pdf: http://proceedings.mlr.press/v139/tong21a/tong21a-supp.pdf
 url_code: https://github.com/KrishnaswamyLab/DiffusionEMD
 url_video: https://youtu.be/3Lwi_nYsmDs
