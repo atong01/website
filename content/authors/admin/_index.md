@@ -1,39 +1,46 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alex Tong
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Mila - Quebec AI Institute
+  url: "https://mila.quebec/en/"
+- name: Université de Montréal
+  url: "https://www.umontreal.ca/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include optimal transport, graph scattering, and normalizing flows.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Causal Inference
+- Optimal Transport
+- Single Cell Transcriptomics
+- Graph Signal Processing
+- Anomaly Detection
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Yale University
+    year: 2021
+  - course: MPhil in Computer Science
+    institution: Yale University
+    year: 2020
+  - course: MS in Computer Science
+    institution: Tufts University
+    year: 2017
+  - course: BS in Computer Science
+    institution: Tufts University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,26 +49,24 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:alexander.tong@mila.quebec'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
+  link: https://github.com/atong01
+- icon: twitter
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://twitter.com/AlexanderTong7
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=CS80pt4AAAAJ
+# Old google scholar link (Yale Account)
+# link: https://scholar.google.com/citations?user=Wwnipd0AAAAJ
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,8 +75,16 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoc with [Yoshua Bengio](https://https://yoshuabengio.org) studying
+the causal discovery of cell dynamics at [Mila](https://mila.quebec/en/) in
+Montreal. This work is in collaboration with [Bernhard
+Schölkopf](https://www.is.mpg.de/~bs) and [Fabian
+Theis](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index.html)
+through the newly formed [Helmholtz International Lab](https://www.helmholtz.ai/themenmenue/our-research/helmholtz-international-labs/index.html), a German-Canadian
+collaboration.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I recently completed my PhD in the [computer science department](https://cpsc.yale.edu) at Yale University in 2021 where I was advised by [Smita Krishnaswamy](https://www.krishnaswamylab.org). My dissertation can be found [here](files/Alexander_Tong_Thesis.pdf).
+My current research interests are in causal machine learning, deep learning, and optimal transport. 
+I'm working on applying ideas from causality, optimal transport, graph signal processing, and deep learning towards biological, and particularly single-cell, questions. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I grew up in Seattle, Washington, USA, and graduated from [Tufts University](https://www.tufts.edu) in 2017 with a B.S. and M.S. in computer science. Outside of work I love sailing and running.
