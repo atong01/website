@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: solarized
+  theme_night: solarized
+  font: native
   font_size: L
 
 # SEO
@@ -64,13 +64,13 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   diagram:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/atong01/website/'
     content_dir: content
     branch: master
   avatar:
