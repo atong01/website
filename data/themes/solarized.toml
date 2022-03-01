@@ -1,0 +1,33 @@
+# Theme metadata
+name = "Solarized"
+
+[light]
+  # Primary
+  primary = "#657b83"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#657b83"
+  menu_text_active = "#586e75"
+  menu_title = "#2b2b2b"
+
+  # Home sections
+  home_section_odd = "#fdf6e3"
+  home_section_even = "#eee8d5"
+
+[dark]
+  # Primary
+  primary = "#839496"
+
+  link = "#268bd2"
+  link_hover = "#6c71c4"
+
+  # Menu
+  menu_primary = "#002b36"
+  menu_text = "#859900"
+  menu_text_active = "#dc322f"
+  # menu_title = "#d33682"
+
+  # Home sections
+  home_section_odd = "#073642"
+  home_section_even = "#002b36"
