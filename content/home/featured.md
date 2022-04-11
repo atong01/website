@@ -7,7 +7,7 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 20
 
 title: Featured Publications
 subtitle: ""
@@ -17,6 +17,7 @@ content:
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
+  link_to_archive: true
   # Filter on criteria
   filters:
     author: ""
@@ -32,5 +33,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: compact
 ---

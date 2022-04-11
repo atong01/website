@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 40
 
 title: Workshops
-subtitle: 'nd other presentations without proceedings'
+subtitle: 'and other presentations'
 
 content:
   # Filter on criteria
@@ -32,6 +32,6 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: list
   columns: '2'
 ---
