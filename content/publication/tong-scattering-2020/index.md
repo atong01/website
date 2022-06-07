@@ -16,7 +16,7 @@ publishDate: 2020-10-08T12:03:45-04:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Conference on the methematical theory of deep neural networks"
+publication: "Conference on the mathematical theory of deep neural networks"
 publication_short: "DeepMath"
 
 abstract: ""
