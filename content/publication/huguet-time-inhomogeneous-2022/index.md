@@ -16,9 +16,9 @@ authors:
 tags:
 - Computer Science - Machine Learning
 - Statistics - Machine Learning
-categories: []
-date: '2022-03-01'
-lastmod: 2022-04-10T21:28:42-04:00
+categories: ["Journal"]
+date: '2023-05-01'
+lastmod: 2023-05-10T21:28:42-04:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-11T01:28:42.304977Z'
+publishDate: '2023-05-11T01:28:42.304977Z'
 publication_types:
 - '3'
 abstract: Diffusion condensation is a dynamic process that yields a sequence of multiscale
@@ -60,8 +60,11 @@ abstract: Diffusion condensation is a dynamic process that yields a sequence of 
   examples. Our work gives theoretical insights into the convergence of diffusion
   condensation, and shows that it provides a link between topological and geometric
   data analysis.
-publication: '*arXiv*'
+publication: 'In *SIMODS*: SIAM Journal on the Mathematics of Data Science'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2203.14860
+- name: SIMODS
+  url: https://epubs.siam.org/doi/abs/10.1137/21M1462945
+
 ---
