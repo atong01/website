@@ -38,7 +38,7 @@ image:
 projects: []
 publishDate: '2023-05-11T01:28:42.304977Z'
 publication_types:
-- '3'
+- '1'
 abstract: Diffusion condensation is a dynamic process that yields a sequence of multiscale
   data representations that aim to encode meaningful abstractions. It has proven effective
   for manifold learning, denoising, clustering, and visualization of high-dimensional
@@ -62,9 +62,8 @@ abstract: Diffusion condensation is a dynamic process that yields a sequence of 
   data analysis.
 publication: 'In *SIMODS*: SIAM Journal on the Mathematics of Data Science'
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2203.14860
 - name: SIMODS
   url: https://epubs.siam.org/doi/abs/10.1137/21M1462945
+url_pdf: https://arxiv.org/abs/2203.14860
 
 ---
