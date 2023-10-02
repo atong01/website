@@ -23,11 +23,12 @@ organizations:
 bio: My research interests include optimal transport, graph scattering, and normalizing flows.
 
 interests:
-- Causal Inference
+# - Causal Inference
 - Optimal Transport
 - Single Cell Transcriptomics
 - Graph Signal Processing
-- Anomaly Detection
+- Generative Modeling
+# - Anomaly Detection
 
 education:
   courses:
@@ -78,18 +79,21 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+#[Bernhard Schölkopf](https://www.is.mpg.de/~bs) and 
+# I am also a cofounder of [DreamFold](https://dreamfold.ai) a protein design startup.
 ---
-
 I am a postdoc with [Yoshua Bengio](https://https://yoshuabengio.org) studying
 the causal discovery of cell dynamics at [Mila](https://mila.quebec/en/) in
-Montreal. This work is in collaboration with [Bernhard
-Schölkopf](https://www.is.mpg.de/~bs) and [Fabian
-Theis](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index.html)
-through the newly formed [Helmholtz International Lab](https://www.helmholtz.ai/themenmenue/our-research/helmholtz-international-labs/index.html), a German-Canadian
-collaboration.
+Montreal. This work is in collaboration with 
+[Fabian Theis](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index.html)
+through the newly formed [Helmholtz International Lab](https://www.helmholtz.ai/themenmenue/our-research/helmholtz-international-labs/index.html), a German-Canadian collaboration.
 
-I recently completed my PhD in the [computer science department](https://cpsc.yale.edu) at Yale University in 2021 where I was advised by [Smita Krishnaswamy](https://www.krishnaswamylab.org). My dissertation can be found [here](files/Alexander_Tong_Thesis.pdf).
-My current research interests are in causal machine learning, deep learning, and optimal transport. 
-I'm working on applying ideas from causality, optimal transport, graph signal processing, and deep learning towards biological, and particularly single-cell, questions. 
+I completed my PhD in the [computer science department](https://cpsc.yale.edu) at Yale University in 2021 where I was advised by [Smita Krishnaswamy](https://www.krishnaswamylab.org). My dissertation can be found [here](files/Alexander_Tong_Thesis.pdf).
+My current research interests are in generative modeling, deep learning, and optimal transport. 
+I'm working on applying ideas from causality, optimal transport, graph signal processing, and deep learning to understand how cells develop and respond to changing conditions.
 
-I grew up in Seattle, Washington, USA, and graduated from [Tufts University](https://www.tufts.edu) in 2017 with a B.S. and M.S. in computer science. Outside of work I love sailing and running.
+I grew up in Seattle, Washington, USA, and graduated from [Tufts
+University](https://www.tufts.edu) in 2017 with a BS and MS in computer
+science. Outside of work, I love sailing and running. I am the 2019 junior North
+American champion in the [505 class](https://www.int505.org), and I recently
+ran my first 50 mile race the [Vermont 50](https://vermont50.com)!
