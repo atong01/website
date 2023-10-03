@@ -18,16 +18,16 @@ authors:
 - Christopher J. Tape
 tags: []
 categories: []
-date: '2022-10-01'
+date: '2023-10-01'
 lastmod: 2023-05-31T06:48:43-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Trellis Architecture'
   focal_point: ''
   preview_only: false
 
@@ -41,7 +41,7 @@ publishDate: '2023-05-31T10:48:43.187609Z'
 publication_types:
 - '3'
 abstract: 'Patient-derived organoids (PDOs) can model personalized therapy responses, however current screening technologies cannot reveal drug response mechanisms or study how tumor microenvironment cells alter therapeutic performance. To address this, we developed a highly-multiplexed mass cytometry platform to measure post translational modification (PTM) signaling in >2,500 colorectal cancer (CRC) PDOs and cancer-associated fibroblasts (CAFs) in response to clinical therapies at single-cell resolution. To compare patient- and microenvironment-specific drug responses in thousands of single-cell datasets, we developed Trellis — a highly-scalable, hierarchical tree-based treatment effect analysis method. Trellis single-cell screening revealed that on-target cell-cycle blockage and DNA-damage drug effects are common, even in chemorefractory PDOs. However, drug-induced apoptosis is patient-specific. We found drug-induced apoptosis does not correlate with genotype or clinical staging but does align with cell-intrinsic PTM signaling in PDOs. CAFs protect chemosensitive PDOs by shifting cancer cells into a slow-cycling cell-state and CAF chemoprotection can be reversed by inhibiting YAP.'
-publication: 'BioRxiv'
+publication: 'Accepted at *Cell*'
 doi: 10.1101/2022.10.19.512668
 links:
 - name: code
