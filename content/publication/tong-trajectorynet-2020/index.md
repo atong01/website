@@ -19,6 +19,8 @@ image:
   focal_point: "Top"
   preview_only: false
 
+projects: ["trajectorynet"]
+
 links:
 - name: Arxiv
   url: https://arxiv.org/abs/2002.04461
@@ -30,6 +32,6 @@ url_code: https://github.com/KrishnaswamyLab/TrajectoryNet
 url_video: https://youtu.be/uEEbC3KI8RM
 url_slides: "TrajectoryNet ICML 2020.pdf"
 url_pdf: http://proceedings.mlr.press/v119/tong20a/tong20a-supp.pdf
-tags: ["OT", "Optimal Transport", "CNF", "Continuous Normalizing Flow", NN"]
+tags: ["OT", "Optimal Transport", "CNF", "Continuous Normalizing Flow", "NN"]
 ---
 

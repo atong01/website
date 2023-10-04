@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "TrajectoryNet: A Dynamic Optimal Transport Network for Modeling Cellular Dynamics"
+title: "Modeling Cellular Dynamics from Single-cell Data"
 summary: ""
 authors: ["Alexander Tong", "Jessie Huang", "Guy Wolf", "David van Dijk", "Smita Krishnaswamy"]
 tags: []
@@ -42,4 +42,4 @@ url_slides: "TrajectoryNet ICML 2020.pdf"
 slides: ""
 ---
 
-Hello world
+Single-cell transcriptomics is a powerful technology that allows for high resolution understanding of cell state, however, this measurement also destroys the cell. We therefore only have access to population-level measurements of cell state over time. The task of *trajectory inference* tries to recover individual cell trajectories from these population-level measurements.
