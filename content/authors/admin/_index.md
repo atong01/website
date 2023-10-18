@@ -28,12 +28,12 @@ bio: My research interests include optimal transport, graph scattering, and norm
 
 # Interests to show in About widget
 interests:
-# - Causal Inference
-- Optimal Transport
-- Single Cell Transcriptomics
-- Graph Signal Processing
 - Generative Modeling
+- Optimal Transport
+- Single Cell Dynamics
+- Graph Signal Processing
 - Protein Design
+- Causal Discovery
 # - Anomaly Detection
 
 # Education to show in About widget

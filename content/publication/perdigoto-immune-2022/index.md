@@ -27,7 +27,7 @@ authors:
 - Smita Krishnaswamy
 - Kevan C. Herold
 tags: []
-categories: []
+categories: [archival]
 date: '2022-08-01'
 lastmod: 2023-05-31T06:31:31-04:00
 featured: false

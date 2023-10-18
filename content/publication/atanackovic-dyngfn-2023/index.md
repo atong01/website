@@ -14,6 +14,7 @@ authors:
 author_notes:
 - Equal Contribution
 - Equal Contribution
+categories: [archival]
 tags: ["GFlowNet", "GRN Inference", "Causal Discovery"]
 date: '2023-12-01'
 lastmod: 2023-05-31T06:37:09-04:00

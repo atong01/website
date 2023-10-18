@@ -15,8 +15,8 @@ author_notes:
 - Equal Contribution
 - Equal Contribution
 tags: []
-categories: []
 date: '2023-07-01'
+categories: [archival]
 lastmod: 2023-05-31T06:32:24-04:00
 featured: false
 draft: false

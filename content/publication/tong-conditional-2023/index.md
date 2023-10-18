@@ -3,7 +3,7 @@
 
 title: 'Improving and Generalizing Flow-Based Generative Models with Minibatch Optimal Transport'
 subtitle: ''
-summary: ''
+summary: 'We present methods for learning simple flows over R^d with optimal transport conditional flow matching (OT-CFM). Training with this objective leads to imprved results on a variety of conditional and unconditional generation tasks, such as inferring single cell dynamics, unsupervised image translation, and Schrodinger bridge inference.'
 authors:
 - admin
 - Nikolay Malkin

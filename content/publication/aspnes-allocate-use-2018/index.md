@@ -6,6 +6,7 @@ authors: ["James Aspnes", "Bernhard Haeupler", "admin", "Philipp Woelfel"]
 author_notes:
 - "Authors ordered alphabetically"
 publication_types: ["paper-conference"]
+categories: [archival]
 tags: []
 
 publication: In *International Symposium on Distributed Computing*

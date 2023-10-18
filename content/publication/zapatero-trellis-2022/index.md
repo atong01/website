@@ -4,7 +4,7 @@
 title: Trellis Single-Cell Screening Reveals Stromal Regulation of Patient-Derived
   Organoid Drug Responses
 subtitle: ''
-summary: ''
+summary: "Trellis is a tree-based earth mover's distance method for understanding estimating treatment effects from single cell data. In this work we apply it to colorectal cancer PDOS and investigate the chemoprotection induced by cancer-associated fibroblasts."
 authors:
 - María Ramos Zapatero
 - admin
@@ -21,8 +21,8 @@ author_notes:
 - Equal Contribution
 
 tags: []
-categories: []
-date: '2023-10-01'
+categories: [archival]
+date: '2023-12-02'
 lastmod: 2023-05-31T06:48:43-04:00
 featured: true
 draft: false

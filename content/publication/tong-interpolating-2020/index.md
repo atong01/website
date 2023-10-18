@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Interpolating Optimal Transport Barycenters of Patient Manifolds"
-authors: ["Alexander Tong", "Smita Krishnaswamy"]
+authors: [admin, "Smita Krishnaswamy"]
 date: 2020-06-01
 doi: ""
 
