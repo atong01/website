@@ -28,6 +28,8 @@ sections:
       filters:
         folders:
           - publication
+        publication_types:
+          - article-journal
         exclude_featured: false
       count: 0
     design:
@@ -39,7 +41,8 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: "0"
+        publication_types:
+          - preprint
         exclude_featured: false
       count: 0
     design:

@@ -3,8 +3,8 @@
 title: Alex Tong
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Alex
+last_name: Tong
 
 # Status emoji
 status:

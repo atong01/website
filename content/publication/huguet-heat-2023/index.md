@@ -6,12 +6,17 @@ subtitle: ''
 summary: ''
 authors:
 - Guillaume Huguet
-- Alexander Tong
+- admin
 - Edward De Brouwer
 - Yanlei Zhang
 - Guy Wolf
 - Ian Adelstein
 - Smita Krishnaswamy
+author_notes:
+- Equal Contribution
+- Equal Contribution
+- Equal Contribution
+
 tags: []
 categories: []
 date: '2023-12-01'
@@ -35,9 +40,10 @@ image:
 projects: []
 publishDate: '2023-10-03T03:28:20.915638Z'
 publication_types:
-- '1'
+- 'paper-conference'
 abstract: ''
-publication: 'NeurIPS'
+publication: 'Advances in Neural Information Processing Systems'
+publication_short: 'NeurIPS'
 
 url_pdf: https://arxiv.org/abs/2305.19043
 url_code: https://github.com/KrishnaswamyLab/HeatGeo

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Graph Spectral Regularization for Neural Network Interpretability"
-authors: ["Alexander Tong", "David van Dijk", "Jay S. Stanley III", "Matthew Amodio", "Kristina Yim", "Rebecca Muhle", "James Noonan", "Guy Wolf", "Smita Krishnaswamy"]
+authors: [admin, "David van Dijk", "Jay S. Stanley III", "Matthew Amodio", "Kristina Yim", "Rebecca Muhle", "James Noonan", "Guy Wolf", "Smita Krishnaswamy"]
 date: 2019-05-08T12:04:15-04:00
 doi: ""
 
@@ -13,7 +13,7 @@ publishDate: 2020-10-08T12:04:15-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: [workshop]
 
 # Publication name and optional abbreviated publication name.
 publication: "ICLR Workshop on Representation Learning on Graphs and Manifolds"

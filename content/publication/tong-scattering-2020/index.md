@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Scattering Priors for Graph Neural Networks"
-authors: ["Alexander Tong", "Frederik Wenkel", "Kincaid MacDonald", "Smita Krishnaswamy", "Guy Wolf"]
+authors: [admin, "Frederik Wenkel", "Kincaid MacDonald", "Smita Krishnaswamy", "Guy Wolf"]
 date: 2020-11-05T12:03:45-04:00
 doi: ""
 
@@ -13,7 +13,7 @@ publishDate: 2020-10-08T12:03:45-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: [workshop]
 
 # Publication name and optional abbreviated publication name.
 publication: "Conference on the mathematical theory of deep neural networks"

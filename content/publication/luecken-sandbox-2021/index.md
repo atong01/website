@@ -32,7 +32,7 @@ authors:
 - Scott Steelman
 - Michael Sterr
 - Dan J Treacy
-- Alexander Tong
+- admin
 - Alexandra-Chloé Villani
 - Guilin Wang
 - Jia Yan
@@ -41,7 +41,6 @@ authors:
 - Smita Krishnaswamy
 - Fabian J Theis
 - Jonathan M Bloom
-categories: ["Conference"]
 date: '2021-12-01'
 lastmod: 2022-02-27T17:38:44-05:00
 featured: false
@@ -63,8 +62,7 @@ image:
 projects: []
 publishDate: '2022-02-27T22:38:44.901415Z'
 publication_types:
-- '1'
-abstract: ''
+- paper-conference
 publication: 'In *Advances of Neural Information Processing Systems*'
 publication_short: '*NeurIPS*'
 

@@ -2,11 +2,11 @@
 title: "Finding Archetypal Spaces Using Neural Networks"
 date: 2019-12-01
 publishDate: 2020-06-14T22:16:45.024780Z
-authors: ["David van Dijk", "Daniel B. Burkhardt", "Matthew Amodio", "Alexander Tong", "Guy Wolf", "Smita Krishnaswamy"]
-publication_types: ["1"]
+authors: ["David van Dijk", "Daniel B. Burkhardt", "Matthew Amodio", admin, "Guy Wolf", "Smita Krishnaswamy"]
+publication_types: ["paper-conference"]
 
-publication: In *2019 IEEE International Conference on Big Data (Big Data)*
-publication_short: In *IEEE Big Data*
+publication: 2019 IEEE International Conference on Big Data
+publication_short: IEEE Big Data
 doi: "10.1109/BigData47090.2019.9006484"
 categories: ["Conference"]
 

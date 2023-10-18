@@ -6,17 +6,21 @@ subtitle: ''
 summary: ''
 authors:
 - Guillaume Huguet
-- Alexander Tong
+- admin
 - Bastian Rieck
 - Jessie Huang
 - Manik Kuchroo
 - Matthew Hirn
 - Guy Wolf
 - Smita Krishnaswamy
+author_notes:
+- Equal Contribution
+- Equal Contribution
+- Equal Contribution
+- Equal Contribution
 tags:
 - Computer Science - Machine Learning
 - Statistics - Machine Learning
-categories: ["Journal"]
 date: '2023-05-01'
 lastmod: 2023-05-10T21:28:42-04:00
 featured: false
@@ -38,7 +42,7 @@ image:
 projects: []
 publishDate: '2023-05-11T01:28:42.304977Z'
 publication_types:
-- '1'
+- 'article-journal'
 abstract: Diffusion condensation is a dynamic process that yields a sequence of multiscale
   data representations that aim to encode meaningful abstractions. It has proven effective
   for manifold learning, denoising, clustering, and visualization of high-dimensional
@@ -61,6 +65,7 @@ abstract: Diffusion condensation is a dynamic process that yields a sequence of 
   condensation, and shows that it provides a link between topological and geometric
   data analysis.
 publication: 'In *SIMODS*: SIAM Journal on the Mathematics of Data Science'
+publication: In *SIMODS*
 links:
 - name: SIMODS
   url: https://epubs.siam.org/doi/abs/10.1137/21M1462945

@@ -7,12 +7,15 @@ summary: ''
 authors:
 - Oluwadamilola Fasina
 - Guillaume Huguet
-- Alexander Tong
+- admin
 - Yanlei Zhang
 - Guy Wolf
 - Maximilian Nickel
 - Ian Adelstein
 - Smita Krishnaswamy
+author_notes:
+- Equal Contribution
+- Equal Contribution
 tags: []
 categories: []
 date: '2023-07-01'
@@ -36,9 +39,9 @@ image:
 projects: []
 publishDate: '2023-10-03T03:28:20.744235Z'
 publication_types:
-- '1'
+- 'paper-conference'
 abstract: ''
-publication: '*Proceedings of the 40th International Conference on Machine Learning*'
+publication: 'Proceedings of the 40th International Conference on Machine Learning'
+publication_short: ICML
 url_pdf: https://proceedings.mlr.press/v202/fasina23a.html
-
 ---

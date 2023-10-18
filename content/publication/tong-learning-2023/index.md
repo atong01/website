@@ -6,7 +6,7 @@ title: Learning Transcriptional and Regulatory Dynamics Driving Cancer Cell Plas
 subtitle: ''
 summary: ''
 authors:
-- Alexander Tong
+- admin
 - Manik Kuchroo
 - Shabarni Gupta
 - Aarthi Venkat
@@ -16,6 +16,9 @@ authors:
 - John G. Lock
 - Christine L. Chaffer
 - Smita Krishnaswamy
+author_notes:
+- Equal Contribution
+- Equal Contribution
 tags: []
 categories: []
 date: '2023-03-01'
@@ -39,7 +42,7 @@ image:
 projects: []
 publishDate: '2023-05-31T10:33:56.974886Z'
 publication_types:
-- '3'
+- preprint
 abstract: ''
 publication: 'BiorXiv'
 doi: 10.1101/2023.03.28.534644

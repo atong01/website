@@ -5,7 +5,7 @@ title: Learnable Filters for Geometric Scattering Modules
 subtitle: ''
 summary: ''
 authors:
-- Alexander Tong
+- admin
 - Frederik Wenkel
 - Dhananjay Bhaskar
 - Kincaid Macdonald
@@ -13,6 +13,9 @@ authors:
 - Michael Perlmutter
 - Smita Krishnaswamy
 - Guy Wolf
+author_notes:
+- Equal Contribution
+- Equal Contribution
 tags: []
 categories: []
 date: '2022-01-01'
@@ -36,7 +39,7 @@ image:
 projects: []
 publishDate: '2023-05-31T10:27:49.835688Z'
 publication_types:
-- '3'
+- 'preprint'
 abstract: ''
 publication: ''
 links:

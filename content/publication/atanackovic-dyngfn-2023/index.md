@@ -6,13 +6,15 @@ subtitle: ''
 summary: ''
 authors:
 - Lazar Atanackovic
-- Alexander Tong
+- admin
 - Jason Hartford
 - Leo J. Lee
 - Bo Wang
 - Yoshua Bengio
-tags: []
-categories: []
+author_notes:
+- Equal Contribution
+- Equal Contribution
+tags: ["GFlowNet", "GRN Inference", "Causal Discovery"]
 date: '2023-12-01'
 lastmod: 2023-05-31T06:37:09-04:00
 featured: false
@@ -34,9 +36,10 @@ image:
 projects: []
 publishDate: '2023-05-31T10:37:09.593042Z'
 publication_types:
-- '1'
+- 'paper-conference'
 abstract: 'One of the grand challenges of cell biology is inferring the gene regulatory network (GRN) which describes interactions between genes and their products that control gene expression and cellular function. We can treat this as a causal discovery problem but with two non-standard challenges: (1) regulatory networks are inherently cyclic so we should not model a GRN as a directed acyclic graph (DAG), and (2) observations have significant measurement noise, so for typical sample sizes there will always be a large equivalence class of graphs that are likely given the data, and we want methods that capture this uncertainty. Existing methods either focus on challenge (1), identifying *cyclic* structure from dynamics, or on challenge (2) learning complex Bayesian *posteriors* over DAGs, but not both. In this paper we leverage the fact that it is possible to estimate the ``velocity'' of gene expression with *RNA velocity* techniques to develop an approach that addresses both challenges. Because we have access to velocity information, we can treat the Bayesian structure learning problem as a problem of sparse identification of a dynamical system, capturing cyclic feedback loops through time. Since our objective is to model uncertainty over discrete structures, we leverage Generative Flow Networks (GFlowNets) to estimate the posterior distribution over the combinatorial space of possible sparse dependencies. Our results indicate that our method learns posteriors that better encapsulate the distributions of cyclic structures compared to counterpart state-of-the-art Bayesian structure learning approaches.'
-publication: 'NeurIPS'
+publication: Advances in Neural Information Processing Systems <br \> Also presented at a causal view on dynamical systems workshop @ NeurIPS 2022
+publication_short: NeurIPS. <br \> Also presented at NeurIPS 2022 workshop
 
 url_pdf: https://arxiv.org/abs/2302.04178
 url_code: https://github.com/lazaratan/dyn-gfn

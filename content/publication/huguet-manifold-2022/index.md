@@ -7,11 +7,15 @@ summary: ''
 authors:
 - Guillaume Huguet
 - D. S. Magruder
-- Alexander Tong
+- admin
 - Oluwadamilola Fasina
 - Manik Kuchroo
 - Guy Wolf
 - Smita Krishnaswamy
+author_notes:
+- Equal Contribution
+- Equal Contribution
+- Equal Contribution
 tags: []
 categories: []
 date: '2022-12-09'
@@ -35,9 +39,10 @@ image:
 projects: []
 publishDate: '2022-12-09T10:26:48.511128Z'
 publication_types:
-- '1'
+- 'paper-conference'
 abstract: 'We present a method called Manifold Interpolating Optimal-Transport Flow (MIOFlow) that learns stochastic, continuous population dynamics from static snapshot samples taken at sporadic timepoints. MIOFlow combines dynamic models,  manifold learning, and optimal transport by training neural ordinary differential equations (Neural ODE) to interpolate between static population snapshots as penalized by optimal transport with manifold ground distance. Further, we ensure that the flow follows the geometry by operating in the latent space of an autoencoder that we call a geodesic autoencoder (GAE). In GAE the latent space distance between points is regularized to match a novel multiscale geodesic distance on the data manifold that we define. We show that this method is superior to normalizing flows, Schr\"odinger bridges and other generative models that are designed to flow from noise to data in terms of interpolating between populations. Theoretically, we link these trajectories with dynamic optimal transport. We evaluate our method on simulated data with bifurcations and merges, as well as scRNA-seq data from embryoid body differentiation, and acute myeloid leukemia treatment.'
-publication: '*NeurIPS*'
+publication: 'Advances in Neural Information Processing Systems'
+publication_short: 'NeurIPS'
 
 links:
 - name: NeurIPS
