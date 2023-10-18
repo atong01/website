@@ -6,7 +6,7 @@ authors: ["David van Dijk", "Daniel B. Burkhardt", "Matthew Amodio", admin, "Guy
 publication_types: ["paper-conference"]
 
 publication: 2019 IEEE International Conference on Big Data
-publication_short: IEEE Big Data
+publication_short: "In *IEEE Big Data*"
 doi: "10.1109/BigData47090.2019.9006484"
 categories: ["Conference"]
 

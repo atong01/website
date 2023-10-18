@@ -8,7 +8,6 @@ abstract: "Anomaly detection is of great interest in fields where abnormalities 
 summary: "We fix unwanted biases in standard deep anomaly detection with a new architecture. Extended from IEEE MLSP (2020) version."
 featured: false
 publication: In *Journal of Signal Processing Systems*
-publication_short: In *J Sign Process Syst*
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

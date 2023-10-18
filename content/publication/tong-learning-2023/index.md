@@ -44,6 +44,7 @@ publishDate: '2023-05-31T10:33:56.974886Z'
 publication_types:
 - article
 abstract: ''
-publication: 'BioRxiv'
+publication: '*BioRxiv*'
 doi: 10.1101/2023.03.28.534644
+url_pdf: https://www.biorxiv.org/content/10.1101/2023.03.28.534644
 ---

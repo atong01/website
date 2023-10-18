@@ -43,7 +43,7 @@ publication_types:
 - 'paper-conference'
 abstract: ''
 publication: 'Advances in Neural Information Processing Systems'
-publication_short: 'NeurIPS'
+publication_short: 'In *NeurIPS*'
 
 url_pdf: https://arxiv.org/abs/2305.19043
 url_code: https://github.com/KrishnaswamyLab/HeatGeo

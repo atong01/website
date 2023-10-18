@@ -17,7 +17,7 @@ publication_types: [abstract]
 
 # Publication name and optional abbreviated publication name.
 publication: "28th Conference on Intelligent Systems for Molecular Biology"
-publication_short: "ISMB"
+publication_short: "In *ISMB*"
 
 abstract: "Single-cell data is now being collected across many patients in varying conditions. However, data is still relatively expensive. This opens up the opportunity for computational methods to decrease overall cost by inferring a single-cell measurement based on similarity to the meta-data of other similar samples. We examine this problem with an optimal transport perspective. This allows us to leverage a variant of the Sinkhorn algorithm for extremely computationally efficient approximations of transport along discrete manifolds. Our method first constructs the manifold between samples, then aligns this to the manifold of patients, and finally applies this to interpolate a barycenter sample along this manifold. We show first that we are able to better interpolate samples between timepoints than existing methods e.g. Waddington-OT (Schiebinger et al. 2019 Cell) by accounting for structure between multiple timepoints instead of pairs. We then show when the relationship between patients is an inferred manifold, how to impute a patient’s single-cell measurements based on other similar single-cell samples by aligning the manifold of patients with that of single-cell measurements. When the manifold of patients exhibits non-linear but intrinsically low-dimensional structure, we are able to more accurately infer a single-cell measurement."
 

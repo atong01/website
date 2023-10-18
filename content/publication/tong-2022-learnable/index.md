@@ -41,7 +41,7 @@ publishDate: '2023-05-31T10:27:49.835688Z'
 publication_types:
 - article
 abstract: ''
-publication: 'arXiv'
+publication: '*arXiv*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2208.07458
