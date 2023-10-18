@@ -8,6 +8,8 @@ featured: false
 publication: "International Conference on Acoustics and Signal Processing 2022"
 publication_short: "*ICASSP* 2022"
 tags: ["Computer Science - Machine Learning", "Electrical Engineering and Systems Science - Signal Processing"]
+publication_types:
+- article
 
 url_code: https://github.com/KrishnaswamyLab/DiffusionEMD
 url_pdf: https://arxiv.org/pdf/2107.12334.pdf

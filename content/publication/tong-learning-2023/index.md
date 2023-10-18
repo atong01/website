@@ -42,8 +42,8 @@ image:
 projects: []
 publishDate: '2023-05-31T10:33:56.974886Z'
 publication_types:
-- preprint
+- article
 abstract: ''
-publication: 'BiorXiv'
+publication: 'BioRxiv'
 doi: 10.1101/2023.03.28.534644
 ---

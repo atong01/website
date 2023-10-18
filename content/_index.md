@@ -24,27 +24,12 @@ sections:
       view: card
   - block: collection
     content:
-      title: Publications
+      title: Recent Publications
       filters:
         folders:
           - publication
-        publication_types:
-          - article-journal
         exclude_featured: false
-      count: 0
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    content:
-      title: Preprints
-      filters:
-        folders:
-          - publication
-        publication_types:
-          - preprint
-        exclude_featured: false
-      count: 0
+      count: 10
     design:
       columns: '2'
       view: citation

@@ -39,9 +39,9 @@ image:
 projects: []
 publishDate: '2023-05-31T10:27:49.835688Z'
 publication_types:
-- 'preprint'
+- article
 abstract: ''
-publication: ''
+publication: 'arXiv'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2208.07458
