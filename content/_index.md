@@ -19,17 +19,18 @@ sections:
         folders:
           - publication
         featured_only: true
+      count: 4
     design:
       columns: '2'
       view: card
   - block: collection
     id: recent
     content:
-      title: Conference Papers
+      title: Preprints
       filters:
         folders:
           - publication
-        publication_type: paper-conference
+        publication_type: article
         exclude_featured: false
       count: 0
     design:
@@ -38,23 +39,11 @@ sections:
   - block: collection
     id: recent
     content:
-      title: Journal Articles
+      title: Publications
       filters:
         folders:
           - publication
-        publication_type: article-journal
-        exclude_featured: false
-      count: 0
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    content:
-      title: Preprints
-      filters:
-        folders:
-          - publication
-        publication_type: article
+        category: archival
         exclude_featured: false
       count: 0
     design:
