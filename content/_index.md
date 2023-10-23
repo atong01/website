@@ -24,7 +24,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: recent
+    id: preprints
     content:
       title: Preprints
       filters:
@@ -37,7 +37,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: recent
+    id: publications
     content:
       title: Publications
       filters:

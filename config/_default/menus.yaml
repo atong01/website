@@ -16,9 +16,12 @@ main:
   - name: Featured Publications
     url: '#featured'
     weight: 50
-  - name: Recent Publications
-    url: '#recent'
+  - name: Preprints
+    url: '#preprints'
     weight: 60
+  - name: Publications
+    url: '#publications'
+    weight: 65
       #  - name: Contact
       #url: '#contact'
       #weight: 60
