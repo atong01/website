@@ -46,7 +46,5 @@ abstract: 'The computational design of novel protein structures has the potentia
 publication: '*arXiv*'
 url_pdf: http://arxiv.org/abs/2310.02391
 url_code: https://github.com/DreamFold/FoldFlow
-links:
-- name: 'local pdf'
-  url: "se3-flow-matching.pdf"
+url_video: https://www.youtube.com/watch?v=JqKzTdhW7fY
 ---
