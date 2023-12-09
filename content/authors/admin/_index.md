@@ -95,7 +95,7 @@ Montreal. This work is in collaboration with
 [Fabian Theis](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index.html)
 through the newly formed [Helmholtz International Lab](https://www.helmholtz.ai/themenmenue/our-research/helmholtz-international-labs/index.html), a German-Canadian collaboration.
 
-I completed my PhD in the [computer science department](https://cpsc.yale.edu) at [Yale University](https://www.yale.edu) in 2021 where I was advised by [Smita Krishnaswamy](https://www.krishnaswamylab.org). My dissertation can be found [here](files/Alexander_Tong_Thesis.pdf).
+I completed my PhD in the [computer science department](https://cpsc.yale.edu) at [Yale University](https://www.yale.edu) in 2021 where I was advised by [Smita Krishnaswamy](https://www.krishnaswamylab.org). My dissertation can be found [here](uploads/Alexander_Tong_Thesis.pdf).
 My research interests are in generative modeling, deep learning, and optimal transport. 
 I'm working on applying ideas from generative modeling, causal discovery, optimal transport, and graph signal processing to understand how cells develop and respond to changing conditions.
 I'm also interested in generative models for protein design and cofounded [a startup](https://www.dreamfold.ai/) to work on these problems.
