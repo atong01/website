@@ -29,8 +29,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'FoldFlow for protein backbone generation'
+  focal_point: 'Right'
   preview_only: false
 
 # Projects (optional).
@@ -47,4 +47,7 @@ publication: '*arXiv*'
 url_pdf: http://arxiv.org/abs/2310.02391
 url_code: https://github.com/DreamFold/FoldFlow
 url_video: https://www.youtube.com/watch?v=JqKzTdhW7fY
+links:
+- name: Logg Video
+  url: https://www.youtube.com/watch?v=EPxDI0ytfQU
 ---

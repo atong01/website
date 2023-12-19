@@ -55,6 +55,8 @@ links:
   url: https://www.kaggle.com/code/mariaramosz/trellis
 - name: Yale News
   url: https://news.yale.edu/2023/12/07/study-reveals-cancer-cells-resistance-and-vulnerability-treatment
+- name: News-Medical
+  url: https://www.news-medical.net/news/20231209/Understanding-why-healthy-cells-help-cancer-cells-to-evade-treatment.aspx
 
 url_pdf: https://authors.elsevier.com/sd/article/S0092867423012205
 ---
