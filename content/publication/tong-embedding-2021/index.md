@@ -7,7 +7,7 @@ abstract: "In modern relational machine learning it is common to encounter large
 categories: [archival]
 featured: false
 publication: "International Conference on Acoustics and Signal Processing"
-publication_short: "*ICASSP*"
+publication_short: "In *ICASSP*"
 tags: ["Computer Science - Machine Learning", "Electrical Engineering and Systems Science - Signal Processing"]
 publication_types:
 - paper-conference
