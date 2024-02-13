@@ -46,8 +46,11 @@ abstract: 'The computational design of novel protein structures has the potentia
 publication: 'To appear in *ICLR* (Spotlight)'
 url_pdf: http://arxiv.org/abs/2310.02391
 url_code: https://github.com/DreamFold/FoldFlow
-url_video: https://www.youtube.com/watch?v=JqKzTdhW7fY
 links:
+- name: MoML Video
+  url: https://www.youtube.com/watch?v=JqKzTdhW7fY
 - name: Logg Video
   url: https://www.youtube.com/watch?v=EPxDI0ytfQU
+- name: VantAI Video
+  url: https://www.youtube.com/watch?v=t1Pqdl6RB2I
 ---
