@@ -53,6 +53,8 @@ links:
   url: https://github.com/MariaRamosZ/Trellis_how_to/
 - name: Tutorial
   url: https://www.kaggle.com/code/mariaramosz/trellis
+- name: Cancer Research Spotlight
+  url: https://aacrjournals.org/cancerres/article-abstract/doi/10.1158/0008-5472.CAN-24-0490/734195/Adding-new-dimensions-to-3D-cancer-models
 - name: Yale News
   url: https://news.yale.edu/2023/12/07/study-reveals-cancer-cells-resistance-and-vulnerability-treatment
 - name: News-Medical
