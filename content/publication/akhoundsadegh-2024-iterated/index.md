@@ -16,7 +16,7 @@ authors:
 - Gauthier Gidel
 - Yoshua Bengio
 - Nikolay Malkin
-- Alexander Tong
+- admin
 author_notes:
 - Equal Contribution
 - Equal Contribution

@@ -17,8 +17,8 @@ author_notes:
 - Equal Contribution
 - Equal Contribution
 tags: []
-categories: []
-date: '2022-01-01'
+categories: [archival]
+date: '2024-01-01'
 lastmod: 2023-05-31T06:27:49-04:00
 featured: false
 draft: false
@@ -39,9 +39,9 @@ image:
 projects: []
 publishDate: '2023-05-31T10:27:49.835688Z'
 publication_types:
-- article
+- article-journal
 abstract: ''
-publication: '*arXiv*'
+publication: 'Accepted in *IEEE Trans. Sig. Proc.*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2208.07458
