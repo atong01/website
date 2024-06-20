@@ -98,9 +98,9 @@ through the newly formed [Helmholtz International Lab](https://www.helmholtz.ai/
 I completed my PhD in the [computer science department](https://cpsc.yale.edu) at [Yale University](https://www.yale.edu) in 2021 where I was advised by [Smita Krishnaswamy](https://www.krishnaswamylab.org). My dissertation can be found [here](uploads/Alexander_Tong_Thesis.pdf).
 My research interests are in generative modeling, deep learning, and optimal transport. 
 I'm working on applying ideas from generative modeling, causal discovery, optimal transport, and graph signal processing to understand how cells develop and respond to changing conditions.
-I'm also interested in generative models for protein design and cofounded [a startup](https://www.dreamfold.ai/) to work on these problems.
+I'm also interested in generative models for protein design and cofounded [Dreamfold](https://www.dreamfold.ai/) to work on these problems.
 
-I grew up in Seattle, Washington, USA, and graduated from [Tufts
+I grew up in Seattle and graduated from [Tufts
 University](https://www.tufts.edu) in 2017 with a BS and MS in computer
 science. Outside of work, I love sailing and running. I am the 2019 junior North
 American champion in the [505 class](https://www.int505.org), and I recently
