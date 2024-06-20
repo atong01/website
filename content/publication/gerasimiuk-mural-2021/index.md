@@ -3,7 +3,7 @@ title: "MURAL: An Unsupervised Random Forest-Based Embedding for Electronic Heal
 date: 2021-12-13
 publishDate: 2021-12-13
 summary: "A unsupervised random tree distance for missing data in EHR"
-authors: ["Michal Gerasimiuk", "Dennis L. Shung", "Alexander Tong", "Adrian J. Stanley", "Machael Shultz", "Jeffrey Ngu", "Loren Laine", "Guy Wolf", "Smita Krishnaswamy"]
+authors: ["Michal Gerasimiuk", "Dennis L. Shung", admin, "Adrian J. Stanley", "Machael Shultz", "Jeffrey Ngu", "Loren Laine", "Guy Wolf", "Smita Krishnaswamy"]
 author_notes:
 - Equal Contribution
 - Equal Contribution
