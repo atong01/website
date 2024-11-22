@@ -89,6 +89,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+Starting July 2025, I will be joining [Duke University](https://duke.edu) as an assistant professor in the departments of [computer science](https://cs.duke.edu), [cell biology](https://cellbio.duke.edu), and [biostatistics and bioinformatics](https://biostat.duke.edu). I'm looking to recruit phd students for Fall 2025! If you are a prospective student interested in working with me, please apply through the [Computer Science PhD program](https://gradschool.duke.edu/academics/programs-degrees/computer-science/#apply) or the [Computational Biology and Bioinformatics PhD program](https://gradschool.duke.edu/academics/programs-degrees/computational-biology-and-bioinformatics/) and mention me.
+
 I am a postdoc with [Yoshua Bengio](https://https://yoshuabengio.org) studying
 the causal discovery of cell dynamics at [Mila](https://mila.quebec/en/) in
 Montreal. This work is in collaboration with 
@@ -105,4 +108,12 @@ University](https://www.tufts.edu) in 2017 with a BS and MS in computer
 science. Outside of work, I love sailing and running. I am the 2019 junior North
 American champion in the [505 class](https://www.int505.org), and I recently
 ran my first 50 mile race the [Vermont 50](https://vermont50.com)!
+
+### Recent News
+
+* Starting at **Duke University** July 2025
+* Presenting a tutorial on "Geometric Generative Models" at the **LoG** 2024
+* Visiting [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) at Oxford this winter
+* Three papers accepted to **NeurIPS** 2024
+* Two papers accepted to **ICML** 2024
 {style="text-align: justify;"}
