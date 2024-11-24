@@ -41,4 +41,8 @@ abstract: 'Matching objectives underpin the success of modern generative models 
 publication: 'In *NeurIPS*'
 url_pdf: https://arxiv.org/abs/2405.14780
 url_code: https://github.com/kksniak/metric-flow-matching
+
+links:
+- name: Logg Video
+  url: https://youtu.be/watch?v=6cbOim_HjPg
 ---

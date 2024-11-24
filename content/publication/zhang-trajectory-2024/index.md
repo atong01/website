@@ -10,7 +10,7 @@ authors:
 - Andrew Loza
 - Yoshua Bengio
 - Dennis L. Shung
-- Alexander Tong
+- admin
 author_notes:
 - Equal Contribution
 - Equal Contribution
@@ -28,5 +28,6 @@ abstract: ''
 featured: false
 publication: 'In *NeurIPS* (Spotlight)'
 url_pdf: https://arxiv.org/abs/2410.21154
+url_code:  https://github.com/nZhangx/TrajectoryFlowMatching
 ---
 
