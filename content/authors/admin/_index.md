@@ -3,7 +3,7 @@
 title: Alex Tong
 
 # Full name (for SEO)
-first_name: Alex
+first_name: Alexander
 last_name: Tong
 
 # Status emoji
@@ -24,7 +24,7 @@ organizations:
   url: "https://www.umontreal.ca/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include optimal transport, graph scattering, and normalizing flows.
+bio: My research interests include flow models and optimal transport applied to cells and proteins.
 
 # Interests to show in About widget
 interests:
@@ -85,35 +85,52 @@ email: ''
 
 #[Bernhard Schölkopf](https://www.is.mpg.de/~bs) and 
 # I am also a cofounder of [DreamFold](https://dreamfold.ai) a protein design startup.
+#
+#This work is in collaboration with 
+#[Fabian Theis](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index.html)
+#through the newly formed [Helmholtz International Lab](https://www.helmholtz.ai/themenmenue/our-research/helmholtz-international-labs/index.html), a German-Canadian collaboration.
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Starting July 2025, I will be joining [Duke University](https://duke.edu) as an assistant professor in the departments of [computer science](https://cs.duke.edu), [cell biology](https://cellbio.duke.edu), and [biostatistics and bioinformatics](https://biostat.duke.edu). I'm looking to recruit phd students for Fall 2025! If you are a prospective student interested in working with me, please apply through the [Computer Science PhD program](https://gradschool.duke.edu/academics/programs-degrees/computer-science/#apply) or the [Computational Biology and Bioinformatics PhD program](https://gradschool.duke.edu/academics/programs-degrees/computational-biology-and-bioinformatics/) and mention me.
+Starting July 2025, I will be joining [Duke University](https://duke.edu) as an
+assistant professor in the departments of [computer
+science](https://cs.duke.edu), [cell biology](https://cellbio.duke.edu), and
+[biostatistics and bioinformatics](https://biostat.duke.edu). I'm looking to
+recruit phd students for Fall 2025! If you are a prospective student interested
+in working with me, please apply through the [Computer Science PhD
+program](https://gradschool.duke.edu/academics/programs-degrees/computer-science/#apply)
+(Deadline Dec. 16) or the [Computational Biology and Bioinformatics PhD
+program](https://gradschool.duke.edu/academics/programs-degrees/computational-biology-and-bioinformatics/)
+(Deadline Dec. 2) and mention me.
 
-I am a postdoc with [Yoshua Bengio](https://https://yoshuabengio.org) studying
-the causal discovery of cell dynamics at [Mila](https://mila.quebec/en/) in
-Montreal. This work is in collaboration with 
-[Fabian Theis](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index.html)
-through the newly formed [Helmholtz International Lab](https://www.helmholtz.ai/themenmenue/our-research/helmholtz-international-labs/index.html), a German-Canadian collaboration.
+I am a postdoc with [Yoshua Bengio](https://https://yoshuabengio.org) working
+on efficient machine learning algorithms with applications to cell and
+molecular biology at [Mila](https://mila.quebec/en/) in Montreal.
 
-I completed my PhD in the [computer science department](https://cpsc.yale.edu) at [Yale University](https://www.yale.edu) in 2021 where I was advised by [Smita Krishnaswamy](https://www.krishnaswamylab.org). My dissertation can be found [here](uploads/Alexander_Tong_Thesis.pdf).
-My research interests are in generative modeling, deep learning, and optimal transport. 
-I'm working on applying ideas from generative modeling, causal discovery, optimal transport, and graph signal processing to understand how cells develop and respond to changing conditions.
-I'm also interested in generative models for protein design and cofounded [Dreamfold](https://www.dreamfold.ai/) to work on these problems.
+I completed my PhD in the [computer science department](https://cpsc.yale.edu)
+at [Yale University](https://www.yale.edu) in 2021 where I was advised by
+[Smita Krishnaswamy](https://www.krishnaswamylab.org). My dissertation can be
+found [here](uploads/Alexander_Tong_Thesis.pdf).  My research interests are in
+generative modeling, deep learning, and optimal transport.  I'm working on
+applying ideas from generative modeling, causal discovery, optimal transport,
+and graph signal processing to understand how cells develop and respond to
+changing conditions.  I'm also interested in generative models for protein
+design and cofounded [Dreamfold](https://www.dreamfold.ai/) to work on these
+problems.
 
 I grew up in Seattle and graduated from [Tufts
 University](https://www.tufts.edu) in 2017 with a BS and MS in computer
-science. Outside of work, I love sailing and running. I am the 2019 junior North
-American champion in the [505 class](https://www.int505.org), and I recently
-ran my first 50 mile race the [Vermont 50](https://vermont50.com)!
+science. Outside of work, I love sailing and running. I am the 2019 junior
+North American champion in the [505 class](https://www.int505.org), and I
+recently ran my first 50 mile race the [Vermont 50](https://vermont50.com)!
 
 ### Recent News
 
-* Starting at **Duke University** July 2025
-* Presenting a tutorial on "Geometric Generative Models" at the **LoG** 2024
-* Visiting [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) at Oxford this winter
-* Three papers accepted to **NeurIPS** 2024
-* Two papers accepted to **ICML** 2024
+* Presenting a tutorial on [Geometric Generative Models](https://sites.google.com/view/ggm-log-tutorial/home) with [Heli Ben-Hamu](https://helibenhamu.github.io/) and [Joey Bose](https://joeybose.github.io/) at the [**LoG**](https://logconference.org/) Conference 2024.
+* Visiting the group of [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) at [Oxford](https://www.ox.ac.uk) this winter.
+* Three papers accepted to **NeurIPS** 2024! Awesome work led by [Xi (Nicole) Zhang](https://mila.quebec/en/directory/nicole-zhang), [Yuan Pu](https://yuan-pu.github.io), [Guillaume Huguet](https://mila.quebec/en/directory/guillaume-huguet), [James Vuckovic](http://www.jamesvuckovic.com/), and [Kacper Kapuśniak](https://scholar.google.com/citations?user=FO80TZ8AAAAJ&hl=en).
+* Starting at **Duke University** July 2025.
+* Two papers accepted to **ICML** 2024.
 {style="text-align: justify;"}
