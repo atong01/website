@@ -44,5 +44,5 @@ url_code: https://github.com/kksniak/metric-flow-matching
 
 links:
 - name: Logg Video
-  url: https://youtu.be/watch?v=6cbOim_HjPg
+  url: http://www.youtube.com/watch?v=6cbOim_HjPg
 ---

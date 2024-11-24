@@ -8,7 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  font: native
+  # font: minimal
   font_size: M
 
 # SEO
@@ -19,7 +20,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: "Alex Tong's personal website"
-    twitter: 'wowchemy'
+    twitter: 'alexandertong7'
   analytics:
     google_analytics: 'G-JQFKXDZ4WS'
     baidu_tongji: ''

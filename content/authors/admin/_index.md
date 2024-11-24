@@ -31,8 +31,8 @@ interests:
 - Generative Modeling
 - Optimal Transport
 - Single Cell Dynamics
-- Graph Signal Processing
 - Protein Design
+- Graph Signal Processing
 - Causal Discovery
 # - Anomaly Detection
 
@@ -63,6 +63,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/atong01
+- icon: cloud-moon
+  icon_pack: fas
+  link: https://bsky.app/profile/alextong.bsky.social
+  label: Follow me on Bluesky
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AlexanderTong7
@@ -76,9 +80,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
