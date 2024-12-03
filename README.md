@@ -1,4 +1,16 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# Alex Tong's fine site
+
+This uses an older version of the Academic theme. Main modifications are:
+
+1. The tooltip in the Publications now uses a plain asterisk instead of the ugly
+   (i) sign. The tooltip is kept in partials
+1. It uses the old bootstrap 5 version so the partial takes precedence over the
+   git modules
+1. This uses @richtong's Makefile, so it works best if in ~/ws/git/src/web as a
+   submodule. It assumes there is a ws in the path and that there is a
+   ./src/bin and ./src/lib
+
+## [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
@@ -42,9 +54,10 @@ We're an open source movement that depends on your support to stay online and th
 ## Latest news
 
 <!--START_SECTION:news-->
-* [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
-* [What&#39;s new in v5.2?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;whats-new-in-v5.2&#x2F;)
-* [What&#39;s new in v5.1?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;whats-new-in-v5.1&#x2F;)
-* [Version 5.0 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-february-2021&#x2F;)
-* [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-3-february-2021&#x2F;)
+
+- [Easily make an academic CV website to get more cites and grow your audience 🚀](https://wowchemy.com/blog/easily-make-academic-website/)
+- [What&#39;s new in v5.2?](https://wowchemy.com/blog/whats-new-in-v5.2/)
+- [What&#39;s new in v5.1?](https://wowchemy.com/blog/whats-new-in-v5.1/)
+- [Version 5.0 (February 2021)](https://wowchemy.com/blog/version-5.0-february-2021/)
+- [Version 5.0 Beta 3 (February 2021)](https://wowchemy.com/blog/version-5.0-beta-3-february-2021/)
 <!--END_SECTION:news-->

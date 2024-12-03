@@ -1,13 +1,54 @@
 # IDEs
 .idea/
 
-# Hugo
-resources/
-public/
-jsconfig.json
-node_modules/
-go.sum
-.hugo_build.lock
-
 *.sw?
 .DS_Store
+
+.sconsign.dblite
+*.cache
+*.bak
+*~
+*.swp
+
+# no big files
+*.zip
+*.exe
+
+# sublime excludes
+*.sublime-project
+sublime-workspace
+
+# scons excludes
+*cscope*
+/scons.err
+/scons.log
+
+# python related
+*.pyc
+__pycache__
+.ipynb_checkpoints/
+.local/
+.cache/
+.ipython/
+.jupyter/
+.virtual_documents/
+
+# for python virtual environments
+venv/
+
+# Local Netlify folder and hugo
+.cache/
+.hugo_build.lock
+.netlify/
+_vendor/
+go.sum
+jsconfig.json
+node_modules/
+public/
+resources/
+
+# Mkdocs site output
+site/
+
+# Nodes folders
+node_modules

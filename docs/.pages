@@ -1,0 +1,11 @@
+# https://henrywhitaker3.github.io/mkdocs-material-dark-theme/plugins/awesome-pages/
+# .page configuration
+# vim: se ft=yaml:
+collapse: true
+
+# navigation for this directory
+nav:
+  # index is always first
+  - index.md
+  # this means everything else is next
+  - ...

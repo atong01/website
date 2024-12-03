@@ -1,0 +1,160 @@
+# this only is enough for mkdocs to run not for full python debug
+# or python packaging
+[project]
+name = "lib"
+version = "0.1.1-202410"
+description = "TNE.ai main src repo"
+readme = "README.md"
+# this is too broad 3.13 as of 10-24 is not supported by tensorflow
+# open-webui only works with 3.11 as or 10-24
+requires-python = "==3.11.*"
+dependencies = []
+
+[tool.uv]
+dev-dependencies = [
+  "fontawesome-markdown>=0.2.6",
+  "mkdocs>=1.6.1",
+  "mkdocs-material>=9.5.38",
+  "mkdocstrings[python]>=0.26.1",
+  "neovim>=0.3.1",
+]
+
+# https://docs.astral.sh/ruff/configuration/
+[tool.ruff]
+# Exclude a variety of commonly ignored directories.
+exclude = [
+  ".bzr",
+  ".direnv",
+  ".eggs",
+  ".git",
+  ".git-rewrite",
+  ".hg",
+  ".ipynb_checkpoints",
+  ".mypy_cache",
+  ".nox",
+  ".pants.d",
+  ".pyenv",
+  ".pytest_cache",
+  ".pytype",
+  ".ruff_cache",
+  ".svn",
+  ".tox",
+  ".venv",
+  ".vscode",
+  "__pypackages__",
+  "_build",
+  "buck-out",
+  "build",
+  "dist",
+  "node_modules",
+  "site-packages",
+  "venv",
+]
+
+# Same as Black.
+line-length = 88
+indent-width = 4
+
+# Assume Python 3.11
+target-version = "py311"
+
+[tool.ruff.lint]
+# Enable Pyflakes (`F`) and a subset of the pycodestyle (`E`)  codes by default.
+# Unlike Flake8, Ruff doesn't enable pycodestyle warnings (`W`) or
+
+# Richt's aggressive defaults are:
+# "F", -- pyright
+# "E", -- pycodestyle
+# "W", -- pycodestyle warnings
+# "C", -- mccabe code complexity
+# "I", -- isort
+# "N", -- PEP8 naming
+# "N", -- PEP8 naming
+# "D", -- pydocstyle docstrings
+# "UP", -- pyupgrade
+# "YTT", -- flake8-2020
+# "ANN", -- flake8-annotations
+# "S", -- flake8-bandit
+# "FBT", -- flake8-boolean-trap
+# "B", -- flake8-bugbear
+# "A", -- flake8-builtin showing
+# "COM", -- flake8-commas missing
+# "C4", -- flake8-comprehensions simplification
+# "DTZ", -- flake8-datetimez errors
+# "EM", -- flake8-errmsg
+# "EXE", -- flake8-executalbe
+# "PTH", -- flake8-use-pathlib no os.path
+# "PD", -- pandas-vet
+# "PL", -- pylint refactor, warn, errors
+# "NPY", -- numpy
+# "PERF", -- perflint
+# "DOC", -- pydoclint
+# "RUF", -- ruff specific rules
+select = [
+  "F",
+  "E",
+  "W",
+  "C",
+  "I",
+  "N",
+  "N",
+  "D",
+  "UP",
+  "YTT",
+  "ANN",
+  "S",
+  "FBT",
+  "B",
+  "A",
+  "COM",
+  "C4",
+  "DTZ",
+  "EM",
+  "EXE",
+  "PTH",
+  "PD",
+  "PL",
+  "NPY",
+  "PERF",
+  "DOC",
+  "RUF",
+]
+# ignor conflicting rules
+ignore = [
+  "D203", # no blank lines before docstring in class (Google convention)
+  "D213", # one line after summary (Google convention)
+]
+
+# Allow fix for all enabled rules (when `--fix`) is provided.
+fixable = ["ALL"]
+unfixable = []
+
+# Allow unused variables when underscore-prefixed.
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+
+[tool.ruff.format]
+# Like Black, use double quotes for strings.
+quote-style = "double"
+
+# Like Black, indent with spaces, rather than tabs.
+indent-style = "space"
+
+# Like Black, respect magic trailing commas.
+skip-magic-trailing-comma = false
+
+# Like Black, automatically detect the appropriate line ending.
+line-ending = "auto"
+
+# Enable auto-formatting of code examples in docstrings. Markdown,
+# reStructuredText code/literal blocks and doctests are all supported.
+#
+# This is currently disabled by default, but it is planned for this
+# to be opt-out in the future.
+docstring-code-format = true
+
+# Set the line length limit used when formatting code snippets in
+# docstrings.
+#
+# This only has an effect when the `docstring-code-format` setting is
+# enabled.
+docstring-code-line-length = "dynamic"

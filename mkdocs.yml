@@ -1,0 +1,193 @@
+# https://squidfunk.github.io/mkdocs-material/creating-your-site/
+# https://www.mkdocs.org/getting-started/
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+site_name: Total Neural Enterprises
+site_url: https://docs.tne.ai/
+# https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
+repo_url: https://github.com/tne-ai/src
+edit_uri: edit/main/docs
+#use_directory_urls: false
+#
+# To use awesome pages, you need to comment out the .nav
+# then use the .pages in each directory
+nav:
+  # with monorepo plugin, the first entry will be the home page of the section
+  # because nested includes are not allowed, this page has to have the entire
+  # configuration
+  # also sub repos cannot use awesome pages, the .pages can only be used at the
+  # top level, so awesome pages net net is not useful with monorepo since it
+  # can only be  used in the main repo
+  - Home: index.md
+  - FNG:
+      - fng/index.md
+      - Introduction: fng/intro.md
+      - Background: fng/bg.md
+      - Culture: fng/culture.md
+      - Update: fng/update.md
+      - Sales: fng/sales.md
+      - Dev: fng/dev.md
+      - Applications: fng/apps.md
+      - Systems: fng/sys.md
+  - Apps: "!include ./apps/mkdocs.yml"
+  - Marketing: "!include ./mktg/mkdocs.yml"
+  - Sales: "!include ./sales/mkdocs.yml"
+  - Systems:
+      - Intro: "!include ./sys/mkdocs.yml"
+      - Troopship: "!include ./sys/troopship/mkdocs.yml"
+      - BP-Runner: "!include ./sys/troopship/bp-runner/mkdocs.yml"
+      - BP-Runner Tests: "!include ./sys/troopship/bp-runner/tests/mkdocs.yml"
+  - Utilities:
+      - Bin: "!include ./bin/mkdocs.yml"
+      - Lib: "!include ./lib/mkdocs.yml"
+
+theme:
+  name: material
+  # make sure you have logo's loaded here
+  logo: media/logo_big.png
+  favicon: media/logo_small.png
+  # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    primary: deep purple
+    scheme: slate
+    accent: indigo
+  features:
+    - content.action.edit # edit if in a github repo
+    - header.autohide
+    # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.instant.preview
+    # the address bar changes to nearest tag
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.tabs
+    - navigation.tags.sticky
+    # tabs eliminates the side nav bar only use for big sites
+    # - navigation.tabs
+    # - navigation.tags.sticky
+    - navigation.path
+    # prune reverse the expand
+    - navigation.prune
+    # - navigation.expand
+    - toc.follow
+    - toc.integrate
+
+# https://squidfunk.github.io/mkdocs-material/setup/extensions/
+plugins:
+  # https://github.com/byrnereese/mkdocs-git-committers-plugin
+  # generates a plugin error
+  # - git-committers:
+  #   repository: tne-ai/src
+  #   branch: main
+  #   token: !!python/object/apply:os.getenv ["GITHUB_TOKEN_CLASSIC"]
+  - redirects
+  - search
+  - minify:
+      minify_css: true
+      minify_js: true
+      minify_html: true
+      htmlmin_opts:
+        remove_comments: true
+      cache_safe: true
+  # @richt's additions use
+  # pdoc3 instead
+  # - mkdocstrings
+  # allows the use of !include for mono repos
+  - monorepo
+  - awesome-pages
+  # pymdownx superfences has this already
+  # mkdocs-mermaid2-plugin
+  # vegalite for charts
+  - charts
+  # add .ipynb directly into nav
+  - mkdocs-jupyter
+  # materials automatically inserts git change date
+  # need to set action/checkouit / with / fetch-depth=0
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+  # automatically number headers (looks bad for large sites)
+  # - enumerate-headings
+  # requires superfences runs code on the doc site
+  - markdown-exec
+
+# for charts
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - smarty
+  - toc:
+      permalink: true
+  # https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/
+  # latex requires mathjax.js to work in docs/javascript/mathjax.js
+  - pymdownx.arithmatex:
+      generic: true
+  # adds better **bold** and _italic_ detection
+  - pymdownx.betterem:
+      smart_enable: all
+  # adds ^^underline^^ and ^superscript^
+  - pymdownx.caret
+  # adds ==yellow highlight==
+  - pymdownx.mark
+  # adds ~~strikeout~~ ~subscript~
+  - pymdownx.tilde
+  # adds Critic Markup to show edits {++insert text++} {--remove text--}
+  # {==highlight text==} {>>comment text<<}
+  - pymdownx.critic
+  # collapsible callsouts with 3 lines, need a space between
+  # ???+ title
+  #
+  # detail hidden under a close
+  - pymdownx.details
+  # automatic syntax highlighting in `code blocks`
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+  # handles in-line code highlighting
+  - pymdownx.inlinehilite
+  # keyboard key combinations ++ctrl+alt+delete++ ++arrow-up++ ++cmd++ ++option++
+  - pymdownx.keys
+  # autolinks mail, ftp lines
+  - pymdownx.magiclink:
+      normalize_issue_symbols: true
+      repo_url_shorthand: true
+  # converts (tm) (c) +/-
+  - pymdownx.smartsymbols
+  # insert a file with --8<--- "file.ext"
+  - pymdownx.snippets
+  # next code and content blocks
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+        - name: vegalite
+          class: vegalite
+          # adds twitter emojis like :smile: see https://emojipedia.org/twitter
+          format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
+
+  - pymdownx.emoji:
+      emoji_index:
+        !!python/name:material.extensions.emoji.twemoji # adds tab agove content to group code blocks for different operating systems
+
+
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
