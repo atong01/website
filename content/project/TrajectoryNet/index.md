@@ -3,10 +3,17 @@
 
 title: "Modeling Cellular Dynamics from Single-cell Data"
 summary: ""
-authors: ["Alexander Tong", "Jessie Huang", "Guy Wolf", "David van Dijk", "Smita Krishnaswamy"]
+authors:
+  [
+    "Alexander Tong",
+    "Jessie Huang",
+    "Guy Wolf",
+    "David van Dijk",
+    "Smita Krishnaswamy",
+  ]
 tags: []
 categories: []
-date: 2020-07
+date: 2020-07-13T10:07:43-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -28,8 +35,8 @@ image:
 #   icon: twitter
 
 links:
-- name: Arxiv
-  url: https://arxiv.org/abs/2002.04461
+  - name: Arxiv
+    url: https://arxiv.org/abs/2002.04461
 url_code: https://github.com/KrishnaswamyLab/TrajectoryNet
 url_video: https://youtu.be/uEEbC3KI8RM
 url_slides: "TrajectoryNet ICML 2020.pdf"
@@ -42,4 +49,4 @@ url_slides: "TrajectoryNet ICML 2020.pdf"
 slides: ""
 ---
 
-Single-cell transcriptomics is a powerful technology that allows for high resolution understanding of cell state, however, this measurement also destroys the cell. We therefore only have access to population-level measurements of cell state over time. The task of *trajectory inference* tries to recover individual cell trajectories from these population-level measurements.
+Single-cell transcriptomics is a powerful technology that allows for high resolution understanding of cell state, however, this measurement also destroys the cell. We therefore only have access to population-level measurements of cell state over time. The task of _trajectory inference_ tries to recover individual cell trajectories from these population-level measurements.
