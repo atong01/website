@@ -101,15 +101,9 @@ highlight_name: true
 Starting July 2025, I will be joining [Duke University](https://duke.edu) as an
 assistant professor in the departments of [computer
 science](https://cs.duke.edu), [cell biology](https://cellbio.duke.edu), and
-[biostatistics and bioinformatics](https://biostat.duke.edu). I'm looking to
-recruit phd students for Fall 2025! If you are a prospective student interested
-in working with me, please apply through the [Computer Science PhD
-program](https://gradschool.duke.edu/academics/programs-degrees/computer-science/#apply)
-(Deadline Dec. 16) or the [Computational Biology and Bioinformatics PhD
-program](https://gradschool.duke.edu/academics/programs-degrees/computational-biology-and-bioinformatics/)
-(Deadline Dec. 2) and mention me.
+[biostatistics and bioinformatics](https://biostat.duke.edu). 
 
-I am a postdoc with [Yoshua Bengio](https://https://yoshuabengio.org) working
+I am currently a postdoc with [Yoshua Bengio](https://https://yoshuabengio.org) working
 on efficient machine learning algorithms with applications to cell and
 molecular biology at [Mila](https://mila.quebec/en/) in Montreal.
 
