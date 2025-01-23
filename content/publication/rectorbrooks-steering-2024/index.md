@@ -1,7 +1,7 @@
 ---
 title: Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior
   Prediction
-date: '2024-10-01'
+date: '2025-05-24'
 draft: false
 publishDate: '2024-11-24T12:03:53.078432Z'
 authors:
@@ -31,8 +31,12 @@ author_notes:
 - Equal Contribution
 - Equal Contribution
 abstract: ''
+categories: ["archival"]
+projects: [flow-matching]
 featured: false
-publication: 'Preprint'
+publication_types:
+- paper-conference
+publication: 'In *ICLR*'
 publication_types:
 - article
 links:

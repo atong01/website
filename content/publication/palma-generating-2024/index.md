@@ -12,10 +12,12 @@ authors:
 - Andrea Dittadi
 - Fabian Theis
 abstract: ''
+categories: ["archival"]
+projects: [flow-matching]
 featured: false
-publication: 'Preprint'
 publication_types:
-- article
+- paper-conference
+publication: 'In *ICLR*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2407.11734
