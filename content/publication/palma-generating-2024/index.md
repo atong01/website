@@ -1,6 +1,6 @@
 ---
 title: Generating Multi-Modal and Multi-Attribute Single-Cell Counts with CFGen
-date: '2024-01-01'
+date: '2025-05-24'
 draft: false
 publishDate: '2024-11-24T12:03:53.799846Z'
 authors:
