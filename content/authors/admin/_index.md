@@ -126,6 +126,8 @@ recently ran my first 50 mile race the [Vermont 50](https://vermont50.com)!
 
 ### Recent News
 
+* Four papers accepted to **ICLR** 2025. Checkout our work on steering [masked](https://arxiv.org/abs/2410.08134) and [continuous](https://arxiv.org/abs/2412.17762) diffusion and our work on flow matching in cells with greater realism in [CFGen](https://arxiv.org/abs/2407.11734) and transferrability in [Meta FM](https://arxiv.org/abs/2408.14608).
+* Join us at our workshop [Frontiers in Probabilistic Inference: Sampling meets Learning](https://sites.google.com/view/fpiworkshop/about) at ICLR 2025 in Singapore.
 * Presenting a tutorial on [Geometric Generative Models](https://sites.google.com/view/ggm-log-tutorial/home) with [Heli Ben-Hamu](https://helibenhamu.github.io/) and [Joey Bose](https://joeybose.github.io/) at the [**LoG**](https://logconference.org/) Conference 2024.
 * Visiting the group of [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) at [Oxford](https://www.ox.ac.uk) this winter.
 * Three papers accepted to **NeurIPS** 2024! Awesome work led by [Xi (Nicole) Zhang](https://mila.quebec/en/directory/nicole-zhang), [Yuan Pu](https://yuan-pu.github.io), [Guillaume Huguet](https://mila.quebec/en/directory/guillaume-huguet), [James Vuckovic](http://www.jamesvuckovic.com/), and [Kacper Kapuśniak](https://scholar.google.com/citations?user=FO80TZ8AAAAJ&hl=en).
