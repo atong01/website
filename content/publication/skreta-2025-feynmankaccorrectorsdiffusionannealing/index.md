@@ -48,5 +48,5 @@ publication: ''
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2503.02819
-- url_pdf: https://arxiv.org/pdf/2503.02819
+url_pdf: https://arxiv.org/pdf/2503.02819
 ---

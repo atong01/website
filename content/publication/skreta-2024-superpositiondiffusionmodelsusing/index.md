@@ -33,10 +33,9 @@ image:
 projects: []
 publication_types:
 - paper-conference
-publication: 'In *ICLR*'
 publishDate: '2025-01-23T11:14:16.613802Z'
 abstract: ''
-publication: 'In *ICLR*'
+publication: 'In *ICLR* (spotlight)'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2412.17762
