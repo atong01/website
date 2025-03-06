@@ -23,7 +23,7 @@ author_notes:
 
 tags: []
 categories: []
-date: '2025-01-01'
+date: '2025-02-05'
 lastmod: 2025-03-06T11:12:40Z
 featured: false
 draft: false
@@ -50,6 +50,6 @@ publication: ''
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2502.03540
-- url_pdf: https://arxiv.org/pdf/2502.03540
-- url_code: https://github.com/pengzhangzhi/Path-Planning
+url_pdf: https://arxiv.org/pdf/2502.03540
+url_code: https://github.com/pengzhangzhi/Path-Planning
 ---

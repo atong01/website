@@ -38,11 +38,11 @@ image:
 projects: []
 publishDate: '2025-03-06T11:12:40.312058Z'
 publication_types:
-- '0'
+- article
 abstract: ''
 publication: ''
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2502.18462
-- url_pdf: https://arxiv.org/pdf/2502.18462
+url_pdf: https://arxiv.org/pdf/2502.18462
 ---

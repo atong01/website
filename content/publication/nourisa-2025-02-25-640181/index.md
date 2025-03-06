@@ -11,7 +11,7 @@ authors:
 - Berit Zeller-Plumhoff
 - Robrecht Cannoodt
 - Christian Arnold
-- Alexander Tong
+- admin
 - Jason Hartford
 - Antonio Scialdone
 - Yves Moreau
@@ -67,6 +67,5 @@ abstract: 'Gene regulatory networks (GRNs) underpin cellular identity and functi
   medicine.Competing Interest StatementThe authors have declared no competing interest.'
 publication: '*bioRxiv*'
 doi: 10.1101/2025.02.25.640181
-links:
-- url_pdf: https://www.biorxiv.org/content/early/2025/03/01/2025.02.25.640181
+url_pdf: https://www.biorxiv.org/content/early/2025/03/01/2025.02.25.640181
 ---
