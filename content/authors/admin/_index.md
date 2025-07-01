@@ -14,14 +14,16 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Mila - Quebec AI Institute
-  url: "https://mila.quebec/en/"
-- name: Université de Montréal
-  url: "https://www.umontreal.ca/en/"
+- name: Duke University
+  url: "https://duke.edu"
+#- name: Mila - Quebec AI Institute
+#  url: "https://mila.quebec/en/"
+#- name: Université de Montréal
+#  url: "https://www.umontreal.ca/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include flow models and optimal transport applied to cells and proteins.
@@ -39,6 +41,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Postdoc
+    institution: Mila & University of Montreal
   - course: PhD in Computer Science
     institution: Yale University
     year: 2021
@@ -59,7 +63,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:alexander.tong@mila.quebec'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:alexander.y.tong@duke.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/atong01
@@ -110,14 +114,13 @@ assistant professor in the departments of [computer
 science](https://cs.duke.edu), [cell biology](https://cellbio.duke.edu), and
 [biostatistics and bioinformatics](https://biostat.duke.edu). 
 
-I am currently a postdoc with [Yoshua Bengio](https://https://yoshuabengio.org) working
+I did my postdoc with [Yoshua Bengio](https://https://yoshuabengio.org) working
 on efficient machine learning algorithms with applications to cell and
-molecular biology at [Mila](https://mila.quebec/en/) in Montreal.
-
-I completed my PhD in the [computer science department](https://cpsc.yale.edu)
-at [Yale University](https://www.yale.edu) in 2021 where I was advised by
-[Smita Krishnaswamy](https://www.krishnaswamylab.org). My dissertation can be
-found [here](uploads/Alexander_Tong_Thesis.pdf).  My research interests are in
+molecular biology at [Mila](https://mila.quebec/en/) in Montreal. I completed
+my PhD in the [computer science department](https://cpsc.yale.edu) at [Yale
+University](https://www.yale.edu) in 2021 where I was advised by [Smita
+Krishnaswamy](https://www.krishnaswamylab.org). My dissertation can be found
+[here](uploads/Alexander_Tong_Thesis.pdf).  My research interests are in
 generative modeling, deep learning, and optimal transport.  I'm working on
 applying ideas from generative modeling, causal discovery, optimal transport,
 and graph signal processing to understand how cells develop and respond to
@@ -132,8 +135,8 @@ North American champion in the [505 class](https://www.int505.org), and I
 recently ran my first 50 mile race the [Vermont 50](https://vermont50.com)!
 
 ### Recent News
-
-* Two papers accepted to **ICML** 2025. Checkout our work on [Feynmann-Kac steering](https://arxiv.org/abs/2503.02819) of diffusion models and [Scaling Boltzmann Generators](https://arxiv.org/abs/2502.18462) as well as three spotlight papers in the GenBio workshop [FORT](https://arxiv.org/abs/2506.01158) and two other works coming soon!
+* Started as an assistant professor at [Duke University](https://duke.edu)!
+* Two papers accepted to **ICML** 2025. Checkout our work on [Feynmann-Kac steering](https://arxiv.org/abs/2503.02819) of diffusion models (spotlight) and [Scaling Boltzmann Generators](https://arxiv.org/abs/2502.18462) as well as three newer spotlight papers in the GenBio workshop including [FORT](https://arxiv.org/abs/2506.01158), [PITA](https://arxiv.org/abs/2506.16471) and other works coming soon!
 * Four papers accepted to **ICLR** 2025. Checkout our work on steering [masked](https://arxiv.org/abs/2410.08134) and [continuous](https://arxiv.org/abs/2412.17762) diffusion and our work on flow matching in cells with greater realism in [CFGen](https://arxiv.org/abs/2407.11734) and transferrability in [Meta FM](https://arxiv.org/abs/2408.14608).
 * Join us at our workshop [Frontiers in Probabilistic Inference: Sampling meets Learning](https://sites.google.com/view/fpiworkshop/about) at ICLR 2025 in Singapore.
 * Presenting a tutorial on [Geometric Generative Models](https://sites.google.com/view/ggm-log-tutorial/home) with [Heli Ben-Hamu](https://helibenhamu.github.io/) and [Joey Bose](https://joeybose.github.io/) at the [**LoG**](https://logconference.org/) Conference 2024.
