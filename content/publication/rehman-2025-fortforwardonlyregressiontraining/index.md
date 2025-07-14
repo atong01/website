@@ -1,34 +1,22 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: 'Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts'
+title: 'FORT: Forward-Only Regression Training of Normalizing Flows'
 subtitle: ''
 summary: ''
 authors:
-- Marta Skreta
-- Tara Akhound-Sadegh
-- Viktor Ohanesian
-- Roberto Bondesan
-- Alán Aspuru-Guzik
-- Arnaud Doucet
-- Rob Brekelmans
-- admin
-- Kirill Neklyudov
-author_notes:
-- Equal Contribution
-- Equal Contribution
-- Equal Contribution
--
--
--
--
-- Equal Contribution
-- Equal Contribution
-
+- Danyal Rehman
+- Oscar Davis
+- Jiarui Lu
+- Jian Tang
+- Michael Bronstein
+- Yoshua Bengio
+- Alexander Tong
+- Avishek Joey Bose
 tags: []
-categories: ["archival"]
-date: '2025-07-14'
-lastmod: 2025-03-06T11:12:40Z
+categories: []
+date: '2025-01-01'
+lastmod: 2025-07-01T19:26:38-04:00
 featured: false
 draft: false
 
@@ -46,14 +34,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-03-06T11:12:40.462037Z'
+publishDate: '2025-07-01T23:26:38.658506Z'
 publication_types:
-- paper-conference
+- '0'
 abstract: ''
-publication: 'In *ICML* (spotlight)'
+publication: ''
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2503.02819
-url_pdf: https://arxiv.org/pdf/2503.02819
-url_code: https://github.com/martaskrt/fkc-diffusion
+  url: https://arxiv.org/abs/2506.01158
+- name: URL
+  url: https://arxiv.org/abs/2506.01158
 ---

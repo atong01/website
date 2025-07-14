@@ -16,8 +16,8 @@ author_notes:
 - Equal Contribution
 
 tags: []
-categories: []
-date: '2025-02-28'
+categories: ["archival"]
+date: '2025-07-14'
 lastmod: 2025-03-06T11:12:40Z
 featured: false
 draft: false
@@ -38,9 +38,9 @@ image:
 projects: []
 publishDate: '2025-03-06T11:12:40.312058Z'
 publication_types:
-- article
+- paper-conference
 abstract: ''
-publication: ''
+publication: 'In *ICML*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2502.18462
