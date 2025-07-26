@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Taking a break
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Duke University
-  url: "https://duke.edu"
+#- name: Aithyra
+#  url: "https://www.oeaw.ac.at/aithyra"
 #- name: Mila - Quebec AI Institute
 #  url: "https://mila.quebec/en/"
 #- name: Université de Montréal
@@ -31,11 +31,12 @@ bio: My research interests include flow models and optimal transport applied to 
 # Interests to show in About widget
 interests:
 - Generative Modeling
+- Flow Models
 - Optimal Transport
-- Single Cell Dynamics
 - Protein Design
-- Graph Signal Processing
-- Causal Discovery
+- Single Cell Dynamics
+# - Graph Signal Processing
+# - Causal Discovery
 # - Anomaly Detection
 
 # Education to show in About widget
@@ -109,15 +110,20 @@ highlight_name: true
 #{style="text-align: justify;"}
 ---
 
-Starting July 2025, I will be joining [Duke University](https://duke.edu) as an
-assistant professor in the departments of [computer
-science](https://cs.duke.edu), [cell biology](https://cellbio.duke.edu), and
-[biostatistics and bioinformatics](https://biostat.duke.edu). 
+Starting in September 2025, I will be joining
+[Aithyra](https://www.oeaw.ac.at/aithyra) in Vienna, Austria as a principle
+investigator. Aithyra is a new research institute at the intersection of
+machine learning and life sciences led by [Michael
+Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and funded by the
+Boehringer Ingelheim Foundation. If you're interested in Phd, Postdoc, or
+Visiting researcher positions please feel free to reach out via email!
 
-I did my postdoc with [Yoshua Bengio](https://https://yoshuabengio.org) working
-on efficient machine learning algorithms with applications to cell and
-molecular biology at [Mila](https://mila.quebec/en/) in Montreal. I completed
-my PhD in the [computer science department](https://cpsc.yale.edu) at [Yale
+Previously I was very briefly an assistant professor at [Duke
+University](https://duke.edu). I did my postdoc with [Yoshua
+Bengio](https://https://yoshuabengio.org) working on efficient machine learning
+algorithms with applications to cell and molecular biology at
+[Mila](https://mila.quebec/en/) in Montreal. I completed my PhD in the
+[computer science department](https://cpsc.yale.edu) at [Yale
 University](https://www.yale.edu) in 2021 where I was advised by [Smita
 Krishnaswamy](https://www.krishnaswamylab.org). My dissertation can be found
 [here](uploads/Alexander_Tong_Thesis.pdf).  My research interests are in
@@ -135,10 +141,47 @@ North American champion in the [505 class](https://www.int505.org), and I
 recently ran my first 50 mile race the [Vermont 50](https://vermont50.com)!
 
 ### Recent News
-* Started as an assistant professor at [Duke University](https://duke.edu)!
-* Two papers accepted to **ICML** 2025. Checkout our work on [Feynmann-Kac steering](https://arxiv.org/abs/2503.02819) of diffusion models (spotlight) and [Scaling Boltzmann Generators](https://arxiv.org/abs/2502.18462) as well as three newer spotlight papers in the GenBio workshop including [FORT](https://arxiv.org/abs/2506.01158), [PITA](https://arxiv.org/abs/2506.16471) and other works coming soon!
-* Four papers accepted to **ICLR** 2025. Checkout our work on steering [masked](https://arxiv.org/abs/2410.08134) and [continuous](https://arxiv.org/abs/2412.17762) diffusion and our work on flow matching in cells with greater realism in [CFGen](https://arxiv.org/abs/2407.11734) and transferrability in [Meta FM](https://arxiv.org/abs/2408.14608).
-* Join us at our workshop [Frontiers in Probabilistic Inference: Sampling meets Learning](https://sites.google.com/view/fpiworkshop/about) at ICLR 2025 in Singapore.
-* Presenting a tutorial on [Geometric Generative Models](https://sites.google.com/view/ggm-log-tutorial/home) with [Heli Ben-Hamu](https://helibenhamu.github.io/) and [Joey Bose](https://joeybose.github.io/) at the [**LoG**](https://logconference.org/) Conference 2024.
-* Visiting the group of [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) at [Oxford](https://www.ox.ac.uk) this winter.
-* Three papers accepted to **NeurIPS** 2024! Awesome work led by [Xi (Nicole) Zhang](https://mila.quebec/en/directory/nicole-zhang), [Yuan Pu](https://yuan-pu.github.io), [Guillaume Huguet](https://mila.quebec/en/directory/guillaume-huguet), [James Vuckovic](http://www.jamesvuckovic.com/), and [Kacper Kapuśniak](https://scholar.google.com/citations?user=FO80TZ8AAAAJ&hl=en).
+* Excited to join [Aithyra](https://www.oeaw.ac.at/aithyra) as a principle
+  investigator in September 2025. If you're interested in Phd, Postdoc, or
+  Visiting positions please feel free to reach out via email!
+* Congrats to [Danyal Rehman](https://danyalrehman.com) and collaborators for
+  winning the Best Paper Award at the Gen Bio workshop at ICML 2025 for our
+  work on forward only regression training of normalizing flows
+  [FORT](https://arxiv.org/abs/2506.01158).
+* Join us at the second edition of the [Frontiers in Probabilistic Inference:
+  Sampling meets Learning
+  workshop](http://fpiworkshop.org) at NeurIPS 2025 in
+  San Diego.
+* Started as an assistant professor at [Duke University](https://duke.edu).
+* Two papers accepted to **ICML** 2025. Checkout our work on [Feynmann-Kac
+  steering](https://arxiv.org/abs/2503.02819) of diffusion models (spotlight)
+  and [Scaling Boltzmann Generators](https://arxiv.org/abs/2502.18462) as well
+  as newer workshop papers such as [FORT](https://arxiv.org/abs/2506.01158),
+  [PITA](https://arxiv.org/abs/2506.16471) and other works coming soon.
+* Congrats to [Fred Zhangzhi Peng](https://pengzhangzhi.github.io/home/) and
+  collaborators for winning an outstanding paper award at the DELTA workshop at
+  ICLR 2025 for our work on improved sampling from masked diffusion models in
+  [P2](https://arxiv.org/abs/2502.03540).
+* Four papers accepted to **ICLR** 2025. Checkout our work on steering
+  [masked](https://arxiv.org/abs/2410.08134) and
+  [continuous](https://arxiv.org/abs/2412.17762) diffusion and our work on flow
+  matching in cells with greater realism in
+  [CFGen](https://arxiv.org/abs/2407.11734) and transferrability in [Meta
+  FM](https://arxiv.org/abs/2408.14608).
+* Join us at our workshop [Frontiers in Probabilistic Inference: Sampling meets
+  Learning](https://sites.google.com/view/fpiworkshop/about) at ICLR 2025 in
+  Singapore.
+* Presenting a tutorial on [Geometric Generative
+  Models](https://sites.google.com/view/ggm-log-tutorial/home) with [Heli
+  Ben-Hamu](https://helibenhamu.github.io/) and [Joey
+  Bose](https://joeybose.github.io/) at the
+  [**LoG**](https://logconference.org/) Conference 2024.
+* Visiting the group of [Michael
+  Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) at
+  [Oxford](https://www.ox.ac.uk) this winter.
+* Three papers accepted to **NeurIPS** 2024! Awesome work led by [Xi (Nicole)
+  Zhang](https://mila.quebec/en/directory/nicole-zhang), [Yuan
+  Pu](https://yuan-pu.github.io), [Guillaume
+  Huguet](https://mila.quebec/en/directory/guillaume-huguet), [James
+  Vuckovic](http://www.jamesvuckovic.com/), and [Kacper
+  Kapuśniak](https://scholar.google.com/citations?user=FO80TZ8AAAAJ&hl=en).
