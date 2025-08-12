@@ -116,7 +116,7 @@ investigator. Aithyra is a new research institute at the intersection of
 machine learning and life sciences led by [Michael
 Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and funded by the
 Boehringer Ingelheim Foundation. If you're interested in Phd, Postdoc, or
-Visiting researcher positions please feel free to reach out via email!
+Visiting researcher positions please feel free to reach out via email! For Phd applications please apply [here](https://www.oeaw.ac.at/aithyra/phd-program) before Sept 10.
 
 Previously I was very briefly an assistant professor at [Duke
 University](https://duke.edu). I did my postdoc with [Yoshua
