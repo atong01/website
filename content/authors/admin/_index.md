@@ -26,7 +26,7 @@ organizations:
 #  url: "https://www.umontreal.ca/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include flow models and optimal transport applied to cells and proteins.
+bio: I work on improving flow models with applications to cells and proteins.
 
 # Interests to show in About widget
 interests:
@@ -64,7 +64,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:alexander.y.tong@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:atong@aithyra.at'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/atong01
