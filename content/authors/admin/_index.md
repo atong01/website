@@ -1,4 +1,4 @@
----
+-i--
 # Display name
 title: Alex Tong
 
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Taking a break
+role: Principle Investigator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -110,16 +110,17 @@ highlight_name: true
 #{style="text-align: justify;"}
 ---
 
-Starting in September 2025, I will be joining
-[Aithyra](https://www.oeaw.ac.at/aithyra) in Vienna, Austria as a principle
-investigator. Aithyra is a new research institute at the intersection of
+I am a principle investigator at [Aithyra](https://www.oeaw.ac.at/aithyra) in
+Vienna, Austria.  Aithyra is a new research institute at the intersection of
 machine learning and life sciences led by [Michael
 Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and funded by the
 Boehringer Ingelheim Foundation. If you're interested in Phd, Postdoc, or
-Visiting researcher positions please feel free to reach out via email! For Phd applications please apply [here](https://www.oeaw.ac.at/aithyra/phd-program) before Sept 10.
+Visiting researcher positions please feel free to reach out via email! For Phd
+applications please apply [here](https://www.oeaw.ac.at/aithyra/phd-program)
+before Sept 10.
 
-Previously I was very briefly an assistant professor at [Duke
-University](https://duke.edu). I did my postdoc with [Yoshua
+Previously, I was briefly an assistant professor at [Duke
+University](https://duke.edu). Before that I did my postdoc with [Yoshua
 Bengio](https://https://yoshuabengio.org) working on efficient machine learning
 algorithms with applications to cell and molecular biology at
 [Mila](https://mila.quebec/en/) in Montreal. I completed my PhD in the
