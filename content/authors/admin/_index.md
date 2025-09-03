@@ -18,8 +18,8 @@ role: Principle Investigator
 
 # Organizations/Affiliations to show in About widget
 organizations:
-#- name: Aithyra
-#  url: "https://www.oeaw.ac.at/aithyra"
+- name: Aithyra
+  url: "https://www.oeaw.ac.at/aithyra"
 #- name: Mila - Quebec AI Institute
 #  url: "https://mila.quebec/en/"
 #- name: Université de Montréal
