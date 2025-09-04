@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Principle Investigator
+role: Principal Investigator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -110,7 +110,7 @@ highlight_name: true
 #{style="text-align: justify;"}
 ---
 
-I am a principle investigator at [Aithyra](https://www.oeaw.ac.at/aithyra) in
+I am a principal investigator at [Aithyra](https://www.oeaw.ac.at/aithyra) in
 Vienna, Austria.  Aithyra is a new research institute at the intersection of
 machine learning and life sciences led by [Michael
 Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and funded by the
@@ -142,7 +142,7 @@ North American champion in the [505 class](https://www.int505.org), and I
 recently ran my first 50 mile race the [Vermont 50](https://vermont50.com)!
 
 ### Recent News
-* Excited to join [Aithyra](https://www.oeaw.ac.at/aithyra) as a principle
+* Excited to join [Aithyra](https://www.oeaw.ac.at/aithyra) as a principal
   investigator in September 2025. If you're interested in Phd, Postdoc, or
   Visiting positions please feel free to reach out via email!
 * Congrats to [Danyal Rehman](https://danyalrehman.com) and collaborators for
