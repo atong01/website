@@ -12,7 +12,7 @@ authors:
 - İsmail İlkan Ceylan
 - Michael Bronstein
 - Avishek Joey Bose
-- Alexander Tong
+- admin
 author_notes:
 -
 -

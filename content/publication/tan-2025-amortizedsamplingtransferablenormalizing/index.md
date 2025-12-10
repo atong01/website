@@ -11,7 +11,7 @@ authors:
 - Saifuddin Syed
 - Dominique Beaini
 - Michael M. Bronstein
-- Alexander Tong
+- admin
 - Kirill Neklyudov
 author_notes:
 - Equal Contribution
