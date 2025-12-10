@@ -54,19 +54,6 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: preprints
-    content:
-      title: Preprints
-      filters:
-        folders:
-          - publication
-        publication_type: article
-        exclude_featured: false
-      count: 0
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
     id: publications
     content:
       title: Publications
@@ -74,6 +61,19 @@ sections:
         folders:
           - publication
         category: archival
+        exclude_featured: false
+      count: 0
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    id: preprints
+    content:
+      title: Preprints
+      filters:
+        folders:
+          - publication
+        publication_type: article
         exclude_featured: false
       count: 0
     design:
