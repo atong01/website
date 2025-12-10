@@ -8,7 +8,9 @@ readme = "README.md"
 # this is too broad 3.13 as of 10-24 is not supported by tensorflow
 # open-webui only works with 3.11 as or 10-24
 requires-python = "==3.11.*"
-dependencies = []
+dependencies = [
+    "academic>=0.8.1",
+]
 
 [tool.uv]
 dev-dependencies = [
