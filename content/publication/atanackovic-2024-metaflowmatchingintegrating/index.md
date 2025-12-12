@@ -21,7 +21,7 @@ tags: []
 categories: ["archival"]
 date: '2025-05-24'
 lastmod: 2025-01-23T11:14:17Z
-featured: false
+featured: true
 draft: false
 
 # Featured image

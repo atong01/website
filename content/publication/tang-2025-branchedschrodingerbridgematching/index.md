@@ -10,7 +10,7 @@ authors:
 - admin
 - Pranam Chatterjee
 tags: []
-categories: []
+categories: ["preprint"]
 date: '2025-01-01'
 lastmod: 2025-07-01T19:26:38-04:00
 featured: false

@@ -30,7 +30,7 @@ author_notes:
 tags: []
 date: '2025-12-10'
 lastmod: 2025-07-01T19:26:38-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

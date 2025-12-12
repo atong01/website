@@ -29,7 +29,7 @@ tags: []
 categories: ["archival"]
 date: '2025-07-14'
 lastmod: 2025-03-06T11:12:40Z
-featured: false
+featured: true
 draft: false
 
 # Featured image
