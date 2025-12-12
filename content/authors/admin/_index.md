@@ -119,7 +119,7 @@ Visiting researcher positions please feel free to reach out via email! PhD appli
 
 Previously, I was briefly an assistant professor at [Duke
 University](https://duke.edu). Before that I did my postdoc with [Yoshua
-Bengio](https://https://yoshuabengio.org) working on efficient machine learning
+Bengio](https://yoshuabengio.org) working on efficient machine learning
 algorithms with applications to cell and molecular biology at
 [Mila](https://mila.quebec/en/) in Montreal. I completed my PhD in the
 [computer science department](https://cpsc.yale.edu) at [Yale
