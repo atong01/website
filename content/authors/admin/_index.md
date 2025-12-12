@@ -114,10 +114,8 @@ I am a principal investigator at [Aithyra](https://www.oeaw.ac.at/aithyra) in
 Vienna, Austria.  Aithyra is a new research institute at the intersection of
 machine learning and life sciences led by [Michael
 Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and funded by the
-Boehringer Ingelheim Foundation. If you're interested in Phd, Postdoc, or
-Visiting researcher positions please feel free to reach out via email! For Phd
-applications please apply [here](https://www.oeaw.ac.at/aithyra/phd-program)
-before Sept 10.
+Boehringer Ingelheim Foundation. If you're interested in PhD, Postdoc, or
+Visiting researcher positions please feel free to reach out via email! PhD applications for fall 2026 will open soon.
 
 Previously, I was briefly an assistant professor at [Duke
 University](https://duke.edu). Before that I did my postdoc with [Yoshua
@@ -142,8 +140,8 @@ North American champion in the [505 class](https://www.int505.org), and I
 recently ran my first 50 mile race the [Vermont 50](https://vermont50.com)!
 
 ### Recent News
-* Excited to join [Aithyra](https://www.oeaw.ac.at/aithyra) as a principal
-  investigator in September 2025. If you're interested in Phd, Postdoc, or
+* Joined [Aithyra](https://www.oeaw.ac.at/aithyra) as a principal
+  investigator. If you're interested in PhD, Postdoc, or
   Visiting positions please feel free to reach out via email!
 * Congrats to [Danyal Rehman](https://danyalrehman.com) and collaborators for
   winning the Best Paper Award at the Gen Bio workshop at ICML 2025 for our
