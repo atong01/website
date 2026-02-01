@@ -140,6 +140,7 @@ North American champion in the [505 class](https://www.int505.org), and I
 recently ran my first 50 mile race the [Vermont 50](https://vermont50.com)!
 
 ### Recent News
+* Six papers accepted to **ICLR** 2026. Checkout new work on discrete diffusion model training [PAPL](https://arxiv.org/abs/2509.23405) ([Fred](https://pengzhangzhi.github.io/home/) and [Zack](https://scholars.duke.edu/person/zachary.bezemek)), crystal structure prediction with [OXtal](https://arxiv.org/abs/2512.06987) ([Emily](https://www.cs.ox.ac.uk/people/emily.jin/) and [Andrei](https://andreinica.com/)), efficient Boltzmann generators with [FALCON](https://arxiv.org/abs/2512.09914) and [RegFlow](https://arxiv.org/abs/2506.01158) ([Danyal](https://danyalrehman.com)), branched generative modeling in [BranchSBM](https://arxiv.org/abs/2506.09007) ([Sophia](https://sophtang.github.io/)), and Topological FM ([Kacper](https://scholar.google.com/citations?user=VehPgN8AAAAJ&hl=en).
 * Joined [Aithyra](https://www.oeaw.ac.at/aithyra) as a principal
   investigator. If you're interested in PhD, Postdoc, or
   Visiting positions please feel free to reach out via email!
