@@ -66,7 +66,7 @@ abstract: Diffusion condensation is a dynamic process that yields a sequence of 
   condensation, and shows that it provides a link between topological and geometric
   data analysis.
 publication: 'In *SIMODS*: SIAM Journal on the Mathematics of Data Science'
-publication: In *SIMODS*
+publication_short: In *SIMODS*
 links:
 - name: SIMODS
   url: https://epubs.siam.org/doi/abs/10.1137/21M1462945

@@ -21,7 +21,6 @@ author_notes:
 - Equal Contribution
 categories: ["archival"]
 projects: [flow-matching]
-publishDate: '2024-06-20T13:20:28.098896Z'
 publication_types:
 - paper-conference
 abstract: ''

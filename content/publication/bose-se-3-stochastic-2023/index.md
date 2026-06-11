@@ -22,7 +22,7 @@ tags: ["flow-matching"]
 categories: ["archival"]
 date: '2024-01-20'
 lastmod: 2023-10-18T12:30:34-04:00
-featured: true
+featured: false
 draft: false
 
 # Featured image

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: 'FORT: Forward-Only Regression Training of Normalizing Flows'
+title: 'Efficient Regression-Based Training of Normalizing Flows for Boltzmann Generators'
 subtitle: ''
 summary: ''
 authors:
@@ -14,9 +14,9 @@ authors:
 - Alexander Tong
 - Avishek Joey Bose
 tags: []
-categories: []
-date: '2025-01-01'
-lastmod: 2025-07-01T19:26:38-04:00
+categories: ["archival"]
+date: '2026-04-01'
+lastmod: 2026-04-16T00:00:00-04:00
 featured: false
 draft: false
 
@@ -34,11 +34,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [flow-matching]
-publishDate: '2025-07-01T23:26:38.658506Z'
+publishDate: '2026-04-01T00:00:00.000000Z'
 publication_types:
-- 'article'
+- 'paper-conference'
 abstract: "Simulation-free training frameworks have been at the forefront of the generative modelling revolution in continuous spaces, leading to large-scale diffusion and flow matching models. However, such modern generative models suffer from expensive inference, inhibiting their use in numerous scientific applications like Boltzmann Generators (BGs) for molecular conformations that require fast likelihood evaluation. In this paper, we revisit classical normalizing flows in the context of BGs that offer efficient sampling and likelihoods, but whose training via maximum likelihood is often unstable and computationally challenging. We propose Regression Training of Normalizing Flows (RegFlow), a novel and scalable regression-based training objective that bypasses the numerical instability and computational challenge of conventional maximum likelihood training in favour of a simple ℓ2-regression objective. Specifically, RegFlow maps prior samples under our flow to targets computed using optimal transport couplings or a pre-trained continuous normalizing flow (CNF). To enhance numerical stability, RegFlow employs effective regularization strategies such as a new forward-backward self-consistency loss that enjoys painless implementation. Empirically, we demonstrate that RegFlow unlocks a broader class of architectures that were previously intractable to train for BGs with maximum likelihood. We also show RegFlow exceeds the performance, computational cost, and stability of maximum likelihood training in equilibrium sampling in Cartesian coordinates of alanine dipeptide, tripeptide, and tetrapeptide, showcasing its potential in molecular systems."
-publication: '*ICML GenBio Best Paper Award 2025*'
+publication: '*ICLR 2026*; ICML GenBio Best Paper Award 2025'
+publication_short: '*ICLR 2026*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2506.01158

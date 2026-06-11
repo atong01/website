@@ -23,7 +23,6 @@ authors:
 - Rahul Dhodapkar
 - Guy Wolf
 tags: []
-categories: []
 date: '2022-06-01'
 lastmod: 2023-10-18T23:30:32-04:00
 featured: false
