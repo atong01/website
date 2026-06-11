@@ -115,7 +115,7 @@ Vienna, Austria.  Aithyra is a new research institute at the intersection of
 machine learning and life sciences led by [Michael
 Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and funded by the
 Boehringer Ingelheim Foundation. If you're interested in PhD, Postdoc, or
-Visiting researcher positions please feel free to reach out via email! PhD applications for fall 2026 will open soon.
+Visiting researcher positions please feel free to reach out via email!
 
 Previously, I was briefly an assistant professor at [Duke
 University](https://duke.edu). Before that I did my postdoc with [Yoshua
@@ -140,6 +140,8 @@ North American champion in the [505 class](https://www.int505.org), and I
 recently ran my first 50 mile race the [Vermont 50](https://vermont50.com)!
 
 ### Recent News
+* I'm co-organizing the [Non-Autoregressive Language Models for Fast and Flexible Text Generation](https://github.com/pengzhangzhi/NonAR-LM) workshop at **COLM** 2026 in San Francisco (Oct 9). **Submissions are due June 23, 2026 (AoE)** via OpenReview --- please consider submitting!
+* Two papers accepted to **ICML** 2026. Checkout our work on autoregressive Boltzmann generators [ARBG](https://openreview.net/forum?id=tyQ3hBeY7L) ([Danyal](https://danyalrehman.com)) (spotlight) and topological guidance for macrocycle generation [MacroGuide](https://arxiv.org/abs/2602.14977) (Alicja Maksymiuk).
 * Six papers (2 Oral 4 Poster) accepted to **ICLR** 2026. Checkout new work on discrete diffusion model training [PAPL](https://arxiv.org/abs/2509.23405) ([Fred](https://pengzhangzhi.github.io/home/) and [Zack](https://scholars.duke.edu/person/zachary.bezemek)), crystal structure prediction with [OXtal](https://arxiv.org/abs/2512.06987) ([Emily](https://www.cs.ox.ac.uk/people/emily.jin/) and [Andrei](https://andreinica.com/)), efficient Boltzmann generators with [FALCON](https://arxiv.org/abs/2512.09914) and [RegFlow](https://arxiv.org/abs/2506.01158) ([Danyal](https://danyalrehman.com)), branched generative modeling in [BranchSBM](https://arxiv.org/abs/2506.09007) ([Sophia](https://sophtang.github.io/)), and Topological FM ([Kacper](https://scholar.google.com/citations?user=VehPgN8AAAAJ&hl=en)).
 * Three papers accepted to **NeurIPS** 2025. Checkout our work on non-gradient dynamics with [Curly-FM](https://arxiv.org/abs/2510.26645) ([Katarina](https://kpetrovicc.github.io/) and [Lazar](https://lazaratan.github.io/)), transferable amortized sampling with [Prose](https://arxiv.org/abs/2508.18175) ([Charlie](https://charliebtan.github.io/) and [Majdi](https://majhas.github.io/)), and annealing diffusion models for Boltzmann sampling with [PITA](https://arxiv.org/abs/2506.16471) ([Tara](https://sites.google.com/view/taraakhound-sadegh/home) and [Yoon](https://mila.quebec/en/directory/jungyoon-lee)) (spotlight).
 * Joined [Aithyra](https://www.oeaw.ac.at/aithyra) as a principal
@@ -153,16 +155,16 @@ recently ran my first 50 mile race the [Vermont 50](https://vermont50.com)!
   Sampling meets Learning
   workshop](http://fpiworkshop.org) at NeurIPS 2025 in
   San Diego.
+
+<details>
+<summary>Older News (2024)</summary>
+
 * Started as an assistant professor at [Duke University](https://duke.edu).
 * Two papers accepted to **ICML** 2025. Checkout our work on [Feynman-Kac
   steering](https://arxiv.org/abs/2503.02819) of diffusion models (spotlight)
   and [Scaling Boltzmann Generators](https://arxiv.org/abs/2502.18462) as well
   as newer workshop papers such as [FORT](https://arxiv.org/abs/2506.01158),
   [PITA](https://arxiv.org/abs/2506.16471) and other works coming soon.
-
-<details>
-<summary>Older News (2024)</summary>
-
 * Congrats to [Fred Zhangzhi Peng](https://pengzhangzhi.github.io/home/) and
   collaborators for winning an outstanding paper award at the DELTA workshop at
   ICLR 2025 for our work on improved sampling from masked diffusion models in

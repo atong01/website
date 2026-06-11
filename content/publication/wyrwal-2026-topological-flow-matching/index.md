@@ -25,6 +25,8 @@ publication_types:
 categories: ["archival"]
 projects: [flow-matching]
 abstract: ''
-publication: '*ICLR 2026*'
+publication: '*International Conference on Representation Learning 2026*'
 publication_short: '*ICLR 2026*'
+url_pdf: https://openreview.net/pdf?id=5CM3ax45Ma
+url_code: https://github.com/KacperWyrwal/topological-flow-matching
 ---

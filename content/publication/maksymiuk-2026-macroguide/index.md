@@ -9,7 +9,7 @@ authors:
 - admin
 - Fernanda Duarte
 - İsmail Ceylan
-date: '2026-02-01'
+date: '2026-07-01'
 lastmod: 2026-04-16T00:00:00-04:00
 featured: false
 draft: false
@@ -24,11 +24,11 @@ image:
 
 publishDate: '2026-02-01T00:00:00.000000Z'
 publication_types:
-- 'article'
-categories: ["preprint"]
+- 'paper-conference'
+categories: ["archival"]
 abstract: ''
-publication: '*arXiv preprint*'
-publication_short: '*arXiv*'
+publication: 'International Conference on Machine Learning'
+publication_short: '*ICML*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2602.14977
