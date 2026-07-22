@@ -33,7 +33,7 @@ abstract: "Efficient sampling of molecular systems at thermodynamic equilibrium 
 publication: '*International Conference on Machine Learning (spotlight)*'
 publication_short: '*ICML (spotlight)*'
 links:
-- name: OpenReview
-  url: https://openreview.net/forum?id=tyQ3hBeY7L
-url_pdf: https://openreview.net/forum?id=tyQ3hBeY7L
+- name: arXiv
+  url: https://arxiv.org/abs/2606.27361
+url_pdf: https://arxiv.org/pdf/2606.27361
 ---
