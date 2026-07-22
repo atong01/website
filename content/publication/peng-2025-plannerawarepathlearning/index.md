@@ -51,4 +51,6 @@ publication: '*ICLR 2026 (Oral)*'
 publication_short: '*ICLR 2026 (Oral)*'
 links:
 url_pdf: https://arxiv.org/abs/2509.23405
+url_code: http://github.com/pengzhangzhi/PAPL
+
 ---

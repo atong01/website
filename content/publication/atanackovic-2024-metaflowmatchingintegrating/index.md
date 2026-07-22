@@ -46,4 +46,6 @@ abstract: "Numerous biological and physical processes can be modeled as systems 
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2408.14608
+url_code: https://github.com/lazaratan/meta-flow-matching
+
 ---

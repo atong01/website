@@ -50,4 +50,5 @@ links:
 - name: Blog
   url: https://oxtal.github.io/
 url_pdf: https://arxiv.org/abs/2512.06987
+url_code: https://github.com/OXtal/OXtal
 ---

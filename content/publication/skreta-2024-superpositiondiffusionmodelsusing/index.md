@@ -40,4 +40,6 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2412.17762
 url_pdf: https://arxiv.org/pdf/2412.17762
+url_code: https://github.com/necludov/super-diffusion
+
 ---

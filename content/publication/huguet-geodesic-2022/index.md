@@ -42,4 +42,6 @@ abstract: 'Efficient computation of optimal transport distance between distribut
 publication: 'In *IEEE MLSP*'
 
 url_pdf: https://arxiv.org/abs/2211.00805
+url_code: https://github.com/KrishnaswamyLab/GeoSinkhorn
+
 ---

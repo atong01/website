@@ -35,4 +35,6 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2605.06885
 url_pdf: https://arxiv.org/abs/2605.06885
+url_code: https://github.com/pengzhangzhi/Open-dLLM
+
 ---

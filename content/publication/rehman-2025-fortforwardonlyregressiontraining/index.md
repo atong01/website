@@ -45,4 +45,6 @@ links:
   url: https://arxiv.org/abs/2506.01158
 - name: URL
   url: https://arxiv.org/abs/2506.01158
+url_code: https://github.com/danyalrehman/RegFlow
+
 ---

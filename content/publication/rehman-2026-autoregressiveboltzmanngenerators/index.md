@@ -36,4 +36,6 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2606.27361
 url_pdf: https://arxiv.org/pdf/2606.27361
+url_code: https://github.com/danyalrehman/autobg
+
 ---

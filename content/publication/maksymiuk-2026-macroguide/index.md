@@ -33,4 +33,5 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2602.14977
 url_pdf: https://arxiv.org/abs/2602.14977
+url_code: https://github.com/ala1705/MacroGuide
 ---

@@ -38,4 +38,6 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2510.16656
 url_pdf: https://arxiv.org/abs/2510.16656
+url_code: https://github.com/NoahElRimawiFine/StructureFlow
+
 ---

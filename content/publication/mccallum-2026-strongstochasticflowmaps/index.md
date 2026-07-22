@@ -37,4 +37,5 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2606.01086
 url_pdf: https://arxiv.org/abs/2606.01086
+url_code: https://github.com/sammccallum/ssfm
 ---

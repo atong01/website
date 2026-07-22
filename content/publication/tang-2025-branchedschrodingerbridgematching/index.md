@@ -38,4 +38,5 @@ publication: '*ICLR 2026*'
 publication_short: '*ICLR 2026*'
 links:
 url_pdf: https://arxiv.org/abs/2506.09007
+url_code: https://github.com/sophtang/BranchSBM
 ---
